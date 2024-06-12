@@ -1,10 +1,10 @@
 {
   "name": "project-1",
   "version": "1.0.0",
-  "main": "Header.js",
+  "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon Header.js",
-    "start:prod": "cross-env NODE_ENV=production nodemon Header.js"
+    "start:dev": "nodemon index.js",
+    "start:prod": "cross-env NODE_ENV=production nodemon index.js"
   },
   "author": "nikhi",
   "license": "ISC",
