@@ -2,7 +2,7 @@
   "Header": [
     {
       "id": 1,
-      "url": "/React-setup",
+      "url": "/",
       "title": "Home",
       "subTitle": true,
       "subMenu": [
@@ -26,22 +26,22 @@
     },
     {
       "id": 2,
-      "url": "/React-setup/about",
+      "url": "/about",
       "title": "About"
     },
     {
       "id": 3,
-      "url": "/React-setup/service",
+      "url": "/service",
       "title": "Service"
     },
     {
       "id": 4,
-      "url": "/React-setup/contact",
+      "url": "/contact",
       "title": "Contact"
     },
     {
       "id": 5,
-      "url": "/React-setup/content",
+      "url": "/content",
       "title": "Content"
     }
   ],
