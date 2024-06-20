@@ -1,0 +1,513 @@
+{
+  "marketData": {
+    "timestamp": "3 सितम्बर, 9:20AM",
+    "data": [
+      {
+        "id": "1",
+        "engName": "string",
+        "displayName": "सेंसेक्स",
+        "value": "38717.44",
+        "change": " -125.5 1.2,",
+        "percentageChange": "+232.45 (2.3%)"
+      },
+      {
+        "id": "2",
+        "engName": "string",
+        "displayName": "निफ़्टी 50",
+        "value": "38717.44",
+        "change": " -125.5 1.2,",
+        "percentageChange": "+232.45 (2.3%)"
+      },
+      {
+        "id": "3",
+        "engName": "string",
+        "displayName": "मिडकैप",
+        "value": "38717.44",
+        "change": " -125.5 1.2,",
+        "percentageChange": "+232.45 (2.3%)"
+      },
+      {
+        "id": "3",
+        "engName": "string",
+        "displayName": "स्मॉलकैप",
+        "value": "38717.44",
+        "change": " -125.5 1.2,",
+        "percentageChange": "+232.45 (2.3%)"
+      }
+    ]
+  },
+
+  "tabs": [
+    {
+      "id": "1",
+      "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+      "nameEng": "Market Action",
+      "displayName": "मार्केट एक्शन",
+      "type": "marketAction",
+      "data": {
+        "templateContent": [
+          {
+            "text": "चेन्नई के अब 12 मैचों में 6 जीत और 6 हार से 12 ही पॉइंट्स रह गए।",
+            "url": "https://images.bhaskarassets.com/web2images/521/2024/05/11/02-news-in-briefpackagingcover-final-02-1_1715412722.gif"
+          },
+          {
+            "text": "चेन्नई के अब 12 मैचों में 6 जीत और 6 हार से 12 ही पॉइंट्स रह गए।",
+            "url": "https://images.bhaskarassets.com/web2images/521/2024/05/11/02-news-in-briefpackagingcover-final-02-1_1715412722.gif"
+          },
+          {
+            "text": "चेन्नई के अब 12 मैचों में 6 जीत और 6 हार से 12 ही पॉइंट्स रह गए।",
+            "url": "https://images.bhaskarassets.com/web2images/521/2024/05/11/02-news-in-briefpackagingcover-final-02-1_1715412722.gif"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+      "nameEng": "Top Gainers",
+      "displayName": "टॉप गेनर्स",
+      "timestamp": "3 सितम्बर, 9:20AM",
+      "type": "topGainers",
+      "data": {
+        "tabs": [
+          {
+            "id": "1",
+            "nameEng": "Large Cap",
+            "displayName": "लार्ज कैप",
+            "items": [
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "nameEng": "Large Cap",
+            "displayName": "मिड कैप",
+            "items": [
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+      "nameEng": "Top Losers",
+      "displayName": "टॉप लूजर्स",
+      "timestamp": "3 सितम्बर, 9:20AM",
+      "type": "topLosers",
+      "data": {
+        "tabs": [
+          {
+            "id": "1",
+            "nameEng": "Large Cap",
+            "displayName": "लार्ज कैप",
+            "items": [
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "nameEng": "Large Cap",
+            "displayName": "मिड कैप",
+            "items": [
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              },
+              {
+                "id": "1",
+                "ticker": "",
+                "engName": "ADANIPORTS",
+                "displayName": "अडानी पोर्ट्स",
+                "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+                "value": "₹150.00",
+                "change": 12.24,
+                "percentageChange": 4
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+      "nameEng": "Big News",
+      "displayName": "बड़ी खबरें",
+      "type": "bigNews",
+      "data": {
+        "items": [
+          {
+            "storyId": 133003944,
+            "shareUri": "https://dainik-b.in/fYZPOsAivJb",
+            "templateType": "running",
+            "shortUrl": "/national/news/delhi-cm-arvind-kejriwal-ed-case-delhi-rajasthan-imd-rainfall-alert-133003944.html",
+            "publishTime": "2024-05-11T10:58:13+05:30",
+            "modifiedTime": "2024-05-11T13:57:38+05:30",
+            "category": {
+              "id": 1061,
+              "nameEn": "National",
+              "displayName": "देश",
+              "color": "#83b82e",
+              "listingUrl": "/national/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+            },
+            "header": {
+              "title": "केजरीवाल ने कहा- मोदी सितंबर में 75 साल के हो रहे, अब वे PM नहीं बनेंगे; करीना कपूर को MP हाईकोर्ट का नोटिस",
+              "slug": "न्यूज इन ब्रीफ@2 PM",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/11/02-news-in-briefpackagingcover-final-02-1_1715412722.gif",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133003944,
+            "shareUri": "https://dainik-b.in/fYZPOsAivJb",
+            "templateType": "running",
+            "shortUrl": "/national/news/delhi-cm-arvind-kejriwal-ed-case-delhi-rajasthan-imd-rainfall-alert-133003944.html",
+            "publishTime": "2024-05-11T10:58:13+05:30",
+            "modifiedTime": "2024-05-11T13:57:38+05:30",
+            "category": {
+              "id": 1061,
+              "nameEn": "National",
+              "displayName": "देश",
+              "color": "#83b82e",
+              "listingUrl": "/national/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+            },
+            "header": {
+              "title": "केजरीवाल ने कहा- मोदी सितंबर में 75 साल के हो रहे, अब वे PM नहीं बनेंगे; करीना कपूर को MP हाईकोर्ट का नोटिस",
+              "slug": "न्यूज इन ब्रीफ@2 PM",
+              "containsVideo": false,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/11/02-news-in-briefpackagingcover-final-02-1_1715412722.gif",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133003944,
+            "shareUri": "https://dainik-b.in/fYZPOsAivJb",
+            "templateType": "running",
+            "shortUrl": "/national/news/delhi-cm-arvind-kejriwal-ed-case-delhi-rajasthan-imd-rainfall-alert-133003944.html",
+            "publishTime": "2024-05-11T10:58:13+05:30",
+            "modifiedTime": "2024-05-11T13:57:38+05:30",
+            "category": {
+              "id": 1061,
+              "nameEn": "National",
+              "displayName": "देश",
+              "color": "#83b82e",
+              "listingUrl": "/national/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+            },
+            "header": {
+              "title": "केजरीवाल ने कहा- मोदी सितंबर में 75 साल के हो रहे, अब वे PM नहीं बनेंगे; करीना कपूर को MP हाईकोर्ट का नोटिस",
+              "slug": "न्यूज इन ब्रीफ@2 PM",
+              "containsVideo": false,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/11/02-news-in-briefpackagingcover-final-02-1_1715412722.gif",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+      "nameEng": "Commodity And Currency",
+      "displayName": "सोना-चांदी",
+      "timestamp": "3 सितम्बर, 9:20AM",
+      "type": "commodityAndCurrency",
+      "data": {
+        "items": [
+          {
+            "id": "1",
+            "ticker": "",
+            "engName": "",
+            "displayName": "सोना (24k प्रति 10 ग्राम)",
+            "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+            "value": "₹74,560",
+            "change": 200,
+            "percentageChange": 24
+          },
+          {
+            "id": "2",
+            "ticker": "",
+            "engName": "",
+            "displayName": "सोना (24k प्रति 10 ग्राम)",
+            "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+            "value": "₹74,560",
+            "change": 200,
+            "percentageChange": 24
+          },
+          {
+            "id": "3",
+            "ticker": "",
+            "engName": "",
+            "displayName": "सोना (24k प्रति 10 ग्राम)",
+            "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+            "value": "₹74,560",
+            "change": 200,
+            "percentageChange": 24
+          }
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "imgUrl": "https://images.bhaskarassets.com/web2images/web-frontend/market-watch/market-action-icon.svg",
+      "nameEng": "Ipo Updates",
+      "displayName": "IPO अपडेट",
+      "type": "ipoUpdates",
+      "data": {
+        "tabs": [
+          {
+            "id": "1",
+            "nameEng": "IPO",
+            "displayName": "ओपन/अपकमिंग  IPO",
+            "subHeading": {
+              "label": "कंपनी IPO   (बिडिंग डेट)",
+              "value": "प्राइस रेंज ओपन/अपकमिंग"
+            },
+            "items": [
+              {
+                "id": "1",
+                "engName": "JNK",
+                "displayName": "JNK",
+                "subText": "(2 मई - 12 मई)",
+                "value": "₹10 - ₹11",
+                "subValue": "ओपन",
+                "subValueColor": "#3E9E3E"
+              },
+              {
+                "id": "2",
+                "engName": "JNK",
+                "displayName": "JNK",
+                "subText": "(2 मई - 12 मई)",
+                "value": "₹10 - ₹11",
+                "subValue": "ओपन",
+                "subValueColor": "#3E9E3E"
+              },
+              {
+                "id": "3",
+                "engName": "JNK",
+                "displayName": "JNK",
+                "subText": "(2 मई - 12 मई)",
+                "value": "₹10 - ₹11",
+                "subValue": "ओपन",
+                "subValueColor": "#3E9E3E"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "nameEng": "IPO",
+            "displayName": "लिस्टेड",
+            "subHeading": {
+              "label": "कंपनी IPO   (बिडिंग डेट)",
+              "value": "प्राइस रेंज ओपन/अपकमिंग"
+            },
+            "items": [
+              {
+                "id": "1",
+                "engName": "JNK",
+                "displayName": "JNK",
+                "subText": "(2 मई - 12 मई)",
+                "value": "₹10 - ₹11",
+                "subValue": "ओपन",
+                "subValueColor": "#3E9E3E"
+              },
+              {
+                "id": "2",
+                "engName": "JNK",
+                "displayName": "JNK",
+                "subText": "(2 मई - 12 मई)",
+                "value": "₹10 - ₹11",
+                "subValue": "ओपन",
+                "subValueColor": "#3E9E3E"
+              },
+              {
+                "id": "3",
+                "engName": "JNK",
+                "displayName": "JNK",
+                "subText": "(2 मई - 12 मई)",
+                "value": "₹10 - ₹11",
+                "subValue": "ओपन",
+                "subValueColor": "#3E9E3E"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

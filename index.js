@@ -19,6 +19,9 @@ const ApiData2 = JSON.parse(data2);
 const data3 = fs.readFileSync(`${__dirname}/data/postApi.json`, "utf-8");
 const ApiData3 = JSON.parse(data3);
 
+const data4 = fs.readFileSync(`${__dirname}/data/tab.json`, "utf-8");
+const ApiData4 = JSON.parse(data4);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -31,6 +34,10 @@ app.get("/service", (req, res) => {
 
 app.get("/post", (req, res) => {
   res.send(ApiData3);
+});
+
+app.get("/data", (req, res) => {
+  res.send(ApiData4);
 });
 
 app.listen(port, () => {
