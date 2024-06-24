@@ -1,0 +1,3040 @@
+{
+  "feed": [
+    {
+      "id": "133044940",
+      "shuffle": false,
+      "type": "story",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133044940,
+        "shareUri": "https://dainik-b.in/iUr19TBpJJb",
+        "templateType": "running",
+        "shortUrl": "/international/news/iranian-president-ibrahim-raisi-helicopter-crashes-iran-president-133044940.html",
+        "publishTime": "2024-05-20T00:00:30+05:30",
+        "modifiedTime": "2024-05-20T12:44:38+05:30",
+        "videoPublishedTime": "2024-05-20T10:38:54+05:30",
+        "category": {
+          "id": 1125,
+          "nameEn": "International",
+          "displayName": "विदेश",
+          "color": "#39c3a2",
+          "listingUrl": "/international/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icvidesh1_1585398719.png"
+        },
+        "header": {
+          "title": "विदेश मंत्री समेत 9 सवार भी मारे गए; घोषणा होते ही चीख-चीखकर रोने लगे लोग",
+          "slug": "ईरान के राष्ट्रपति रईसी का हेलिकॉप्टर क्रैश में निधन",
+          "containsVideo": true,
+          "tag": {
+            "text": "LIVE",
+            "bgColorStart": "#F44336"
+          },
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/comp-188_1716178689.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/02-1_1716181702/mp4/v360.mp4",
+              "duration": 72
+            }
+          ]
+        },
+        "articleLockType": "NONE",
+        "blog": {
+          "isLive": true
+        }
+      }
+    },
+    {
+      "id": "133047450",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133047450,
+        "shareUri": "https://dainik-b.in/WsvIeaXRJJb",
+        "templateType": "running",
+        "shortUrl": "/local/uttar-pradesh/lucknow/news/defense-minister-rajnath-singh-said-pok-was-and-will-remain-a-part-of-india-133047450.html",
+        "publishTime": "2024-05-20T05:39:40+05:30",
+        "modifiedTime": "2024-05-20T11:45:52+05:30",
+        "videoPublishedTime": "2024-05-20T05:39:40+05:30",
+        "category": {
+          "id": 3676,
+          "nameEn": "Lucknow",
+          "displayName": "लखनऊ",
+          "color": "#ff554b",
+          "listingUrl": "/local/uttar-pradesh/lucknow/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2022/05/24/uttar-pradesh_1653383620.png"
+        },
+        "header": {
+          "title": "राजनाथ- हमारा सुशासन देखकर वे खुद हमारे मुल्क में शामिल होना चाहते हैं",
+          "slug": "सवाल-400 सीटें आईं तो क्या PoK भारत में होगा",
+          "containsVideo": true,
+          "tag": {
+            "text": "VIP इंटरव्यू",
+            "bgColorStart": "#F44336"
+          },
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/comp-232_1716129192.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/rajnath-fnl-new-01_1716142307/mp4/v360.mp4",
+              "duration": 317
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133045409",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133045409,
+        "shareUri": "https://dainik-b.in/3nphAfuwJJb",
+        "templateType": "running",
+        "shortUrl": "/sports/cricket/news/ipl-2024-vs-ipl-2008-record-facts-runs-sixes-wickets-powerplay-score-133045409.html",
+        "publishTime": "2024-05-20T05:21:00+05:30",
+        "modifiedTime": "2024-05-20T11:56:21+05:30",
+        "videoPublishedTime": "2024-05-20T05:21:00+05:30",
+        "category": {
+          "id": 5176,
+          "nameEn": "IPL 2024",
+          "displayName": "IPL 2024",
+          "color": "#0f86f5",
+          "listingUrl": "/sports/cricket/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "पावरप्ले स्कोर 20% बढ़ा, हर 5वें मैच में शतक; बाउंड्रीज ज्यादा...ऐसे 6 फैक्टर्स",
+          "slug": "17 सीजन में कितना बदला IPL",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/ipl-1_1716145732.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/updateipl-playoff_1716122342/mp4/v360.mp4",
+              "duration": 179
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133044178",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133044178,
+        "shareUri": "https://dainik-b.in/zuSeRkR0IJb",
+        "templateType": "running",
+        "shortUrl": "/national/news/lok-sabha-election-2024-phase-5-voting-percentage-live-update-bjp-congress-rahul-gandhi-smriti-irani-bihar-up-maharashtra-west-bengal-jammu-kashmir-133044178.html",
+        "publishTime": "2024-05-20T04:16:00+05:30",
+        "modifiedTime": "2024-05-20T13:03:01+05:30",
+        "videoPublishedTime": "2024-05-20T12:53:04+05:30",
+        "category": {
+          "id": 1061,
+          "nameEn": "National",
+          "displayName": "देश",
+          "color": "#83b82e",
+          "listingUrl": "/national/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+        },
+        "header": {
+          "title": "बंगाल में भाजपा-तृणमूल समर्थकों के बीच झड़प, यूपी में CRPF जवान की मौत; 11 बजे तक 23.66% मतदान",
+          "slug": "8 राज्यों की 49 सीटों पर वोटिंग",
+          "containsVideo": true,
+          "tag": {
+            "text": "LIVE",
+            "bgColorStart": "#F44336"
+          },
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/comp-321_1716182172.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/09-8-49_1716189765/mp4/v360.mp4",
+              "duration": 182
+            }
+          ]
+        },
+        "articleLockType": "NONE",
+        "blog": {
+          "isLive": true
+        }
+      }
+    },
+    {
+      "id": "133044783",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133044783,
+        "shareUri": "https://dainik-b.in/pftwxt8mJJb",
+        "templateType": "running",
+        "shortUrl": "/bhaskar-khaas/monday-mega-story/news/monday-mega-story-when-will-reservation-end-ambedkar-told-us-133044783.html",
+        "publishTime": "2024-05-20T05:00:00+05:30",
+        "modifiedTime": "2024-05-20T06:34:31+05:30",
+        "videoPublishedTime": "2024-05-20T05:00:00+05:30",
+        "category": {
+          "id": 15590,
+          "nameEn": "Monday Mega Story",
+          "displayName": "मंडे मेगा स्टोरी",
+          "color": "#f89c1d",
+          "listingUrl": "/bhaskar-khaas/monday-mega-story/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/08/07/artboard-1-copy-14_1691422189.png"
+        },
+        "header": {
+          "title": "जिसकी रखवाली के लिए मोदी-राहुल भिड़े; उस आरक्षण की पूरी कहानी",
+          "slug": "मंडे मेगा स्टोरी- आरक्षण कब खत्म होगा, अंबेडकर बताकर गए",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/reservation_1716136548.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/02copy-of-1_1716142423/mp4/v360.mp4",
+              "duration": 534
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/19/02copy-of-1_1716142485.m4a",
+          "duration": 534,
+          "highlight": false
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133047444",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133047444,
+        "shareUri": "https://dainik-b.in/kk0uQokRJJb",
+        "templateType": "running",
+        "shortUrl": "/bhaskar-khaas/news/bjp-south-india-mission-challenges-explained-telangana-kerala-karnataka-lok-sabha-election-133047444.html",
+        "publishTime": "2024-05-20T05:30:55+05:30",
+        "modifiedTime": "2024-05-20T06:48:50+05:30",
+        "videoPublishedTime": "2024-05-20T11:38:10+05:30",
+        "category": {
+          "id": 15578,
+          "nameEn": "Bhaskar Khaas",
+          "displayName": "भास्कर खास",
+          "color": "#f89c1d",
+          "listingUrl": "/bhaskar-khaas/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/07/24/bhaskar-khaas_1690206370.png"
+        },
+        "header": {
+          "title": "हिंदू-मुस्लिम और राम मंदिर मुद्दा नहीं; दक्षिण भारत चुनौती क्यों है, 5 वजह",
+          "slug": "हिंदीपट्टी में 85% सीटें BJP की, दक्षिण में सिर्फ 22%",
+          "containsVideo": true,
+          "tag": {
+            "text": "यक्ष प्रश्न-1",
+            "bgColorStart": "#F44336"
+          },
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/yaksh-ep-01-cover-01_1716111522.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/01-11_1716185263/mp4/v360.mp4",
+              "duration": 563
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/19/1final01_1716133912.m4a",
+          "duration": 563,
+          "highlight": false
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133040912",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133040912,
+        "shareUri": "https://dainik-b.in/T5ahk1DUHJb",
+        "templateType": "running",
+        "shortUrl": "/bhaskar-khaas/positive-story/news/gurugram-zoe-nutrition-mamalife-ceo-taniya-dhirasaria-success-story-133040912.html",
+        "publishTime": "2024-05-20T05:31:28+05:30",
+        "modifiedTime": "2024-05-20T09:28:16+05:30",
+        "videoPublishedTime": "2024-05-20T05:31:28+05:30",
+        "category": {
+          "id": 15595,
+          "nameEn": "Positive Story",
+          "displayName": "पॉजिटिव स्टोरी",
+          "color": "#f89c1d",
+          "listingUrl": "/bhaskar-khaas/positive-story/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/08/07/artboard-1_1691422314.png"
+        },
+        "header": {
+          "title": "डाइट सप्लिमेंट बेचती हूं, शगुन के पैसे से शुरू की कंपनी",
+          "slug": "पॉजिटिव स्टोरी-12 हजार सैलरी थी, आज 53 करोड़ का बिजनेस",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/cover-new_1716148649.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/positive-storymamalife1905_1716140685/mp4/v360.mp4",
+              "duration": 254
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/19/positive-storymamalife19051_1716140877.m4a",
+          "duration": 254,
+          "highlight": false
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "132979842",
+      "shuffle": false,
+      "type": "webStory",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 132979842,
+        "shareUri": "https://dainik-b.in/c2N9KGF3mJb",
+        "templateType": "webstory",
+        "shortUrl": "https://www.bhaskar.com/survey/web-blocker",
+        "publishTime": "2024-05-07T05:30:00+05:30",
+        "modifiedTime": "2024-05-20T06:57:49+05:30",
+        "category": {
+          "id": 15337,
+          "nameEn": "Loksabha Election",
+          "displayName": "लोकसभा चुनाव",
+          "color": "#c75137",
+          "listingUrl": "/election-2024/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2022/01/07/gujarat-election21631797807-1_1641539041.png"
+        },
+        "header": {
+          "title": "पांचवें चरण की वोटिंग आज, किसे मिलेंगी कितनी सीटें...सही अनुमान जिताएगा iPhone15",
+          "slug": "Election का Prediction कॉन्टेस्ट",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/06/comp1-ezgifcom-video-to-gif-converter-19_1714975931.gif",
+              "size": {
+                "w": 600,
+                "h": 450
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE",
+        "webStoryAction": {
+          "androidUrl": "https://www.bhaskar.com/__widgets__/survey/game/intro",
+          "iosUrl": "https://www.bhaskar.com/__widgets__/survey/game/intro"
+        }
+      }
+    },
+    {
+      "id": "133044553",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133044553,
+        "shareUri": "https://dainik-b.in/J8jc34VaJJb",
+        "templateType": "running",
+        "shortUrl": "/lifestyle/news/bhopal-aiims-study-childhood-obesity-reasons-diseases-prevention-tips-133044553.html",
+        "publishTime": "2024-05-20T04:40:00+05:30",
+        "modifiedTime": "2024-05-20T09:40:05+05:30",
+        "videoPublishedTime": "2024-05-20T00:38:35+05:30",
+        "category": {
+          "id": 15630,
+          "nameEn": "Lifestyle",
+          "displayName": "लाइफस्टाइल",
+          "color": "#7059ff",
+          "listingUrl": "/lifestyle/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/10/03/categorylifestyle_1696313048.png"
+        },
+        "header": {
+          "title": "बढ़ता हार्ट अटैक और कैंसर का खतरा, बच्चों को सिखाएं ये 7 अच्छी आदतें",
+          "slug": "सेहतनामा- बचपन का मोटापा बनता जवानी में बीमारियों का कारण",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/sehatnama-cover-childhood-obesity-20-05-2024_1716127629.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/updateshehatnama-1905_1716145002/mp4/v360.mp4",
+              "duration": 131
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/20/19051_1716145745.m4a",
+          "duration": 131,
+          "highlight": false
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133045522",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133045522,
+        "shareUri": "https://dainik-b.in/suZjRAKxJJb",
+        "templateType": "running",
+        "shortUrl": "/sports/cricket/news/ipl-points-table-2024-update-orange-cap-purple-cap-kkr-vs-rr-133045522.html",
+        "publishTime": "2024-05-20T05:30:05+05:30",
+        "modifiedTime": "2024-05-20T12:01:07+05:30",
+        "videoPublishedTime": "2024-05-20T03:17:47+05:30",
+        "category": {
+          "id": 5176,
+          "nameEn": "IPL 2024",
+          "displayName": "IPL 2024",
+          "color": "#0f86f5",
+          "listingUrl": "/sports/cricket/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "आखिरी लीग मैच बारिश में धुला; KKR-SRH में क्वालिफायर-1 होगा, RCB से एलिमिनेटर खेलेगी RR",
+          "slug": "IPL 2024 का गणित",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/s8_1716146233.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/1_1716155254/mp4/v360.mp4",
+              "duration": 65
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133048311",
+      "shuffle": true,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133048311,
+        "shareUri": "https://dainik-b.in/eejyVxIjKJb",
+        "templateType": "running",
+        "shortUrl": "/national/news/icmr-said-research-on-side-effects-of-covaxin-is-misleading-wrong-133048311.html",
+        "publishTime": "2024-05-20T12:08:11+05:30",
+        "modifiedTime": "2024-05-20T12:54:39+05:30",
+        "videoPublishedTime": "2024-05-20T12:47:29+05:30",
+        "category": {
+          "id": 1061,
+          "nameEn": "National",
+          "displayName": "देश",
+          "color": "#83b82e",
+          "listingUrl": "/national/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+        },
+        "header": {
+          "title": "कहा- रिसर्च पेपर से हमारा नाम हटाया जाए, हमने स्टडी के लिए कोई मदद नहीं दी",
+          "slug": "ICMR बोला- कोवैक्सिन के साइड इफेक्ट्स वाली रिसर्च भ्रामक-गलत",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/fhfgh_1716186829.jpg",
+              "size": {
+                "w": 849,
+                "h": 637
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/icmr_1716189399/mp4/v360.mp4",
+              "duration": 60
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "1",
+      "type": "series",
+      "data": {
+        "storyId": 1,
+        "category": {
+          "id": 1,
+          "nameEn": "भास्कर खास",
+          "displayName": "भास्कर खास",
+          "color": "#FF554B"
+        },
+        "widgetColors": {
+          "dark": {
+            "bg": "#18191A",
+            "text": "#E4E6EB"
+          },
+          "light": {
+            "bg": "#FFFFFF",
+            "text": "#2B2B2B"
+          },
+          "themeName": "White"
+        },
+        "widgetData": [
+          {
+            "storyId": 133044783,
+            "shareUri": "https://dainik-b.in/pftwxt8mJJb",
+            "templateType": "running",
+            "shortUrl": "/bhaskar-khaas/monday-mega-story/news/monday-mega-story-when-will-reservation-end-ambedkar-told-us-133044783.html",
+            "publishTime": "2024-05-20T05:00:00+05:30",
+            "modifiedTime": "2024-05-20T06:34:31+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T05:00:00+05:30",
+            "category": {
+              "id": 15590,
+              "nameEn": "Monday Mega Story",
+              "displayName": "मंडे मेगा स्टोरी",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/monday-mega-story/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/08/07/artboard-1-copy-14_1691422189.png"
+            },
+            "header": {
+              "title": "जिसकी रखवाली के लिए मोदी-राहुल भिड़े; उस आरक्षण की पूरी कहानी",
+              "slug": "मंडे मेगा स्टोरी- आरक्षण कब खत्म होगा, अंबेडकर बताकर गए",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/reservation_1716136548.gif",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/02copy-of-1_1716142423/mp4/v360.mp4",
+                  "duration": 534
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/19/02copy-of-1_1716142485.m4a",
+              "duration": 534,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044659,
+            "shareUri": "https://dainik-b.in/MhA3Y0QeJJb",
+            "templateType": "running",
+            "shortUrl": "/lifestyle/news/icmr-guidelines-homemade-food-health-risks-sugar-salt-fat-daily-intake-limit-133044659.html",
+            "publishTime": "2024-05-20T04:41:00+05:30",
+            "modifiedTime": "2024-05-20T11:55:57+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T00:39:35+05:30",
+            "category": {
+              "id": 15605,
+              "nameEn": "Zaroorat Ki Khabar",
+              "displayName": "जरूरत की खबर",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/zaroorat-ki-khabar/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/08/07/artboard-1-copy-13_1691420254.png"
+            },
+            "header": {
+              "title": "ICMR ने जारी की नई गाइडलाइंस, जानिए शुगर, नमक और फैट की डेली लिमिट",
+              "slug": "जरूरत की खबर- होममेड खाना भी हो सकता है अनहेल्दी",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/zkk-cover-19-may_1716130879.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/20/zkk1905_1716145122/mp4/v360.mp4",
+                  "duration": 172
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/20/zkk1905-1_1716145811.m4a",
+              "duration": 172,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044553,
+            "shareUri": "https://dainik-b.in/J8jc34VaJJb",
+            "templateType": "running",
+            "shortUrl": "/lifestyle/news/bhopal-aiims-study-childhood-obesity-reasons-diseases-prevention-tips-133044553.html",
+            "publishTime": "2024-05-20T04:40:00+05:30",
+            "modifiedTime": "2024-05-20T09:40:05+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T00:38:35+05:30",
+            "category": {
+              "id": 15625,
+              "nameEn": "Sehatnama",
+              "displayName": "सेहतनामा",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/sehatnama/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/09/29/sehatnama_1695991733.png"
+            },
+            "header": {
+              "title": "बढ़ता हार्ट अटैक और कैंसर का खतरा, बच्चों को सिखाएं ये 7 अच्छी आदतें",
+              "slug": "सेहतनामा- बचपन का मोटापा बनता जवानी में बीमारियों का कारण",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/sehatnama-cover-childhood-obesity-20-05-2024_1716127629.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/20/updateshehatnama-1905_1716145002/mp4/v360.mp4",
+                  "duration": 131
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/20/19051_1716145745.m4a",
+              "duration": 131,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133040912,
+            "shareUri": "https://dainik-b.in/T5ahk1DUHJb",
+            "templateType": "running",
+            "shortUrl": "/bhaskar-khaas/positive-story/news/gurugram-zoe-nutrition-mamalife-ceo-taniya-dhirasaria-success-story-133040912.html",
+            "publishTime": "2024-05-20T05:31:28+05:30",
+            "modifiedTime": "2024-05-20T09:28:16+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T05:31:28+05:30",
+            "category": {
+              "id": 15595,
+              "nameEn": "Positive Story",
+              "displayName": "पॉजिटिव स्टोरी",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/positive-story/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/08/07/artboard-1_1691422314.png"
+            },
+            "header": {
+              "title": "डाइट सप्लिमेंट बेचती हूं, शगुन के पैसे से शुरू की कंपनी",
+              "slug": "पॉजिटिव स्टोरी-12 हजार सैलरी थी, आज 53 करोड़ का बिजनेस",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/cover-new_1716148649.gif",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/positive-storymamalife1905_1716140685/mp4/v360.mp4",
+                  "duration": 254
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/19/positive-storymamalife19051_1716140877.m4a",
+              "duration": 254,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133048071,
+            "shareUri": "https://dainik-b.in/cSXNF307JJb",
+            "templateType": "running",
+            "shortUrl": "/bhaskar-khaas/spotlight/news/bangalore-delhi-mumbai-property-price-hike-reason-explained-133048071.html",
+            "publishTime": "2024-05-20T09:24:22+05:30",
+            "modifiedTime": "2024-05-20T13:10:29+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T09:24:22+05:30",
+            "category": {
+              "id": 15608,
+              "nameEn": "Spotlight",
+              "displayName": "स्पॉटलाइट",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/spotlight/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/08/17/spotlight_1692284739.png"
+            },
+            "header": {
+              "title": "बेंगलुरु और दिल्ली-एनसीआर में घर खरीदना सबसे महंगा, क्या है इस महंगाई की वजह",
+              "slug": "स्पॉटलाइट- आसमान छू रहे प्रॉपर्टी के दाम",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/spotlighthousing-pricecover-1_1716190815.gif",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/housing-price-spotlight1905_1716137798/mp4/v360.mp4",
+                  "duration": 235
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/19/audio-spotlight1905_1716138157.m4a",
+              "duration": 198,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044416,
+            "shareUri": "https://dainik-b.in/pg3IS906IJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/management-funda-by-n-raghuraman-workplace-productivity-strategies-133044416.html",
+            "publishTime": "2024-05-20T05:00:58+05:30",
+            "modifiedTime": "2024-05-20T05:32:00+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-19T18:43:23+05:30",
+            "category": {
+              "id": 15659,
+              "nameEn": "Management Funda",
+              "displayName": "मैनेजमेंट फंडा",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/management-funda/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/12/20/managment-funda_1703068461.jpg"
+            },
+            "header": {
+              "title": "ऑफिस में सूडो प्रोडक्टिविटी को पहचानें, अच्‍छे काम को रिवॉर्ड जरूर दें",
+              "slug": "मैनेजमेंट फंडा by एन रघुरामन",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/1000273615_1716122067.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/managament-funda-ep-121_1716121706/mp4/v360.mp4",
+                  "duration": 169
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/19/managament-funda-ep-121-1_1716121787.m4a",
+              "duration": 167,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044155,
+            "shareUri": "https://dainik-b.in/JK8JrAa0IJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/toppers-mantra-anshuman-from-bihar-cleared-upsc-2-times-shares-toppers-tips-and-tricks-133044155.html",
+            "publishTime": "2024-05-20T05:55:00+05:30",
+            "modifiedTime": "2024-05-20T06:12:32+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T05:55:00+05:30",
+            "category": {
+              "id": 15685,
+              "nameEn": "Toppers Mantra",
+              "displayName": "टॉपर्स मंत्रा",
+              "color": "#F89C1B",
+              "listingUrl": "/bhaskar-khaas/toppers-mantra-/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2024/01/12/toppers-mantra_1705042881.png"
+            },
+            "header": {
+              "title": "NCERT, अखबार से तैयारी की; अंशुमन ने बिना कोचिंग दो बार क्रैक किया UPSC",
+              "slug": "टॉपर्स मंत्रा - विदेश की नौकरी छोड़ IAS बने",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/_1716118455.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/toppers-mantraanshuman-raj18051_1716124025/mp4/v360.mp4",
+                  "duration": 420
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "133044659",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133044659,
+        "shareUri": "https://dainik-b.in/MhA3Y0QeJJb",
+        "templateType": "running",
+        "shortUrl": "/lifestyle/news/icmr-guidelines-homemade-food-health-risks-sugar-salt-fat-daily-intake-limit-133044659.html",
+        "publishTime": "2024-05-20T04:41:00+05:30",
+        "modifiedTime": "2024-05-20T11:55:57+05:30",
+        "videoPublishedTime": "2024-05-20T00:39:35+05:30",
+        "category": {
+          "id": 15630,
+          "nameEn": "Lifestyle",
+          "displayName": "लाइफस्टाइल",
+          "color": "#7059ff",
+          "listingUrl": "/lifestyle/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/10/03/categorylifestyle_1696313048.png"
+        },
+        "header": {
+          "title": "ICMR ने जारी की नई गाइडलाइंस, जानिए शुगर, नमक और फैट की डेली लिमिट",
+          "slug": "जरूरत की खबर- होममेड खाना भी हो सकता है अनहेल्दी",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/zkk-cover-19-may_1716130879.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/zkk1905_1716145122/mp4/v360.mp4",
+              "duration": 172
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/20/zkk1905-1_1716145811.m4a",
+          "duration": 172,
+          "highlight": false
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133044914",
+      "shuffle": false,
+      "type": "story",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133044914,
+        "shareUri": "https://dainik-b.in/wVvKC0ZoJJb",
+        "templateType": "running",
+        "shortUrl": "/national/news/bjp-president-jp-nadda-says-in-interview-bjp-is-more-capable-now-133044914.html",
+        "publishTime": "2024-05-20T05:10:00+05:30",
+        "modifiedTime": "2024-05-20T10:23:10+05:30",
+        "videoPublishedTime": "2024-05-20T02:13:02+05:30",
+        "category": {
+          "id": 1061,
+          "nameEn": "National",
+          "displayName": "देश",
+          "color": "#83b82e",
+          "listingUrl": "/national/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+        },
+        "header": {
+          "title": "अब भाजपा अपने आपको चलाती है; काशी-मथुरा में मंदिर का कोई प्लान नहीं",
+          "slug": "नड्डा बोले- पहले RSS की जरूरत थी, आज BJP सक्षम",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/2_1716139110.png",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/rss-bjp_1716151363/mp4/v360.mp4",
+              "duration": 76
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "132729319",
+      "shuffle": false,
+      "type": "webStory",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 132729319,
+        "shareUri": "https://dainik-b.in/kHV6bsSy0Hb",
+        "templateType": "webstory",
+        "shortUrl": "https://www.bhaskar.com/interactive/election-2024/counting/india",
+        "publishTime": "2024-03-16T14:57:00+05:30",
+        "modifiedTime": "2024-05-20T06:58:17+05:30",
+        "category": {
+          "id": 15337,
+          "nameEn": "Loksabha Election",
+          "displayName": "लोकसभा चुनाव",
+          "color": "#c75137",
+          "listingUrl": "/election-2024/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2022/01/07/gujarat-election21631797807-1_1641539041.png"
+        },
+        "header": {
+          "title": "पांचवें चरण में 49 सीटों पर वोटिंग आज, हर सीट की पूरी डीटेल सिर्फ एक क्लिक पर",
+          "slug": "लोकसभा चुनाव 2024 का इंटरैक्टिव मैप LIVE",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/03/21/map-cover-bold-re_1711004611.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE",
+        "webStoryAction": {
+          "androidUrl": "https://www.bhaskar.com/__widgets__/interactive/election-2024/counting/india",
+          "iosUrl": "https://www.bhaskar.com/__widgets__/interactive/election-2024/counting/india"
+        }
+      }
+    },
+    {
+      "id": "133044707",
+      "shuffle": false,
+      "type": "story",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "-1",
+        "sectionCatId": "-1"
+      },
+      "data": {
+        "storyId": 133044707,
+        "shareUri": "https://dainik-b.in/Sqy2bNvhJJb",
+        "templateType": "running",
+        "shortUrl": "/entertainment/bollywood/news/junior-ntr-birthday-interesting-facts-body-transformation-lok-parlok-rrr-133044707.html",
+        "publishTime": "2024-05-20T05:30:00+05:30",
+        "modifiedTime": "2024-05-20T09:25:02+05:30",
+        "videoPublishedTime": "2024-05-20T05:30:00+05:30",
+        "category": {
+          "id": 11215,
+          "nameEn": "Bollywood",
+          "displayName": "बॉलीवुड",
+          "color": "#9D46F3",
+          "listingUrl": "/entertainment/bollywood/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+        },
+        "header": {
+          "title": "आज साउथ के फिट एक्टर्स में से एक, 41वें बर्थडे पर देखें कैसे बदलते रहे लुक",
+          "slug": "कभी बदसूरत कहे जाते थे 94 किलो के जूनियर NTR",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/s4_1716132596.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/jr-ntr_1716131279/mp4/v360.mp4",
+              "duration": 170
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "3998",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 3998,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 3998,
+          "nameEn": "Entertainment",
+          "displayName": "बॉलीवुड",
+          "color": "#9d46f3",
+          "listingUrl": "/entertainment/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+        }
+      }
+    },
+    {
+      "id": "133048013",
+      "type": "story",
+      "metadata": {
+        "sectionId": "3998",
+        "sectionCatListingUrl": "/entertainment/",
+        "sectionCatId": "3998",
+        "sectionCatName": "Entertainment"
+      },
+      "data": {
+        "storyId": 133048013,
+        "shareUri": "https://dainik-b.in/tciXf2i6JJb",
+        "templateType": "running",
+        "shortUrl": "/entertainment/bollywood/news/maharashtra-lok-sabha-election-2024-amitabh-bachchan-akshay-kumar-janhvi-kapoor-rajkumar-rao-133048013.html",
+        "publishTime": "2024-05-20T09:00:29+05:30",
+        "modifiedTime": "2024-05-20T13:08:23+05:30",
+        "videoPublishedTime": "2024-05-20T12:23:01+05:30",
+        "category": {
+          "id": 11215,
+          "nameEn": "Bollywood",
+          "displayName": "बॉलीवुड",
+          "color": "#9D46F3",
+          "listingUrl": "/entertainment/bollywood/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+        },
+        "header": {
+          "title": "भारतीय नागरिकता मिलने के बाद पहली बार अक्षय ने दिया वोट; 88 की उम्र में भी वोट देने पहुंचे धर्मेंद्र",
+          "slug": "महाराष्ट्र लोकसभा इलेक्शन 2024",
+          "containsVideo": true,
+          "tag": {
+            "text": "LIVE",
+            "bgColorStart": "#F44336"
+          },
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/cover_1716183655.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/voting_1716187885/mp4/v360.mp4",
+              "duration": 161
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133048277",
+      "type": "story",
+      "metadata": {
+        "sectionId": "3998",
+        "sectionCatListingUrl": "/entertainment/",
+        "sectionCatId": "3998",
+        "sectionCatName": "Entertainment"
+      },
+      "data": {
+        "storyId": 133048277,
+        "shareUri": "https://dainik-b.in/lOlW7TOiKJb",
+        "templateType": "running",
+        "shortUrl": "/entertainment/bollywood/news/people-said-that-kiara-is-talking-in-a-fake-accent-133048277.html",
+        "publishTime": "2024-05-20T11:55:38+05:30",
+        "modifiedTime": "2024-05-20T11:55:38+05:30",
+        "videoPublishedTime": "2024-05-20T13:05:42+05:30",
+        "category": {
+          "id": 11215,
+          "nameEn": "Bollywood",
+          "displayName": "बॉलीवुड",
+          "color": "#9D46F3",
+          "listingUrl": "/entertainment/bollywood/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+        },
+        "header": {
+          "title": "लोगों ने कहा बनावटी एक्सेंट में कर रही हैं बात, कई यूजर्स ने सपोर्ट भी किया",
+          "slug": "कियारा आडवाणी हुईं ट्रोलिंग का शिकार",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/comp-2_1716186329.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/real-time_1716190334/mp4/v360.mp4",
+              "duration": 57
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133043958",
+      "type": "story",
+      "metadata": {
+        "sectionId": "3998",
+        "sectionCatListingUrl": "/entertainment/",
+        "sectionCatId": "3998",
+        "sectionCatName": "Entertainment"
+      },
+      "data": {
+        "storyId": 133043958,
+        "shareUri": "https://dainik-b.in/zvOcinbUIJb",
+        "templateType": "running",
+        "shortUrl": "/entertainment/bollywood/news/johnny-levers-daughter-was-deprived-of-his-love-in-childhood-133043958.html",
+        "publishTime": "2024-05-20T08:00:00+05:30",
+        "modifiedTime": "2024-05-20T11:35:56+05:30",
+        "category": {
+          "id": 11215,
+          "nameEn": "Bollywood",
+          "displayName": "बॉलीवुड",
+          "color": "#9D46F3",
+          "listingUrl": "/entertainment/bollywood/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+        },
+        "header": {
+          "title": "जेमी बोलीं- पिता काम की वजह से अक्सर बाहर रहते थे, लेकिन अब ऐसा नहीं है",
+          "slug": "बचपन में जॉनी लीवर के प्यार से वंचित रहीं बेटी",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/snapinstaapp35937496418379792894060619685755927166_1716113558.jpg",
+              "size": {
+                "w": 1078,
+                "h": 808
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "13",
+      "type": "videoGallery",
+      "data": {
+        "storyId": 13,
+        "category": {
+          "id": 13,
+          "nameEn": "बॉलीवुड REEL",
+          "displayName": "बॉलीवुड REEL",
+          "color": "#9d46f3"
+        },
+        "widgetData": [
+          {
+            "storyId": 133044707,
+            "shareUri": "https://dainik-b.in/RbePrOvhJJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/bollywood/news/junior-ntr-birthday-interesting-facts-body-transformation-lok-parlok-rrr-133044707.html",
+            "author": {
+              "id": 55568,
+              "text": "आकाश खरे"
+            },
+            "publishTime": "2024-05-20T05:30:00+05:30",
+            "modifiedTime": "2024-05-20T09:25:02+05:30",
+            "videoPublishedTime": "2024-05-20T05:30:00+05:30",
+            "category": {
+              "id": 11215,
+              "nameEn": "Bollywood",
+              "displayName": "बॉलीवुड",
+              "color": "#9D46F3",
+              "listingUrl": "/entertainment/bollywood/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "आज साउथ के फिट एक्टर्स में से एक, 41वें बर्थडे पर देखें कैसे बदलते रहे लुक",
+              "slug": "कभी बदसूरत कहे जाते थे 94 किलो के जूनियर NTR",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/s4_1716132596.gif",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/jr-ntr_1716131279/mp4/v360.mp4",
+                  "duration": 170
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "आज साउथ के फिट एक्टर्स में से एक, 41वें बर्थडे पर देखें कैसे बदलते रहे लुक",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/jr-ntr_1716131279/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/19/ntr_1716131284.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/jr-ntr_1716131279/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/jr-ntr_1716131279/mp4/v360.webp",
+              "duration": 170
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133048013,
+            "shareUri": "https://dainik-b.in/8e4BcbQ7JJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/bollywood/news/maharashtra-lok-sabha-election-2024-amitabh-bachchan-akshay-kumar-janhvi-kapoor-rajkumar-rao-133048013.html",
+            "author": {
+              "id": 55568,
+              "text": "किरण जैन/वीरेंद्र मिश्र"
+            },
+            "publishTime": "2024-05-20T09:00:29+05:30",
+            "modifiedTime": "2024-05-20T12:23:04+05:30",
+            "videoPublishedTime": "2024-05-20T12:23:01+05:30",
+            "category": {
+              "id": 11215,
+              "nameEn": "Bollywood",
+              "displayName": "बॉलीवुड",
+              "color": "#9D46F3",
+              "listingUrl": "/entertainment/bollywood/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "भारतीय नागरिकता मिलने के बाद पहली बार अक्षय ने दिया वोट; 88 की उम्र में भी वोट देने पहुंचे धर्मेंद्र",
+              "slug": "महाराष्ट्र लोकसभा इलेक्शन 2024",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/cover_1716183655.gif",
+                  "size": {
+                    "w": 500,
+                    "h": 375
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/20/voting_1716187885/mp4/v360.mp4",
+                  "duration": 161
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "भारतीय नागरिकता मिलने के बाद पहली बार अक्षय ने दिया वोट; 88 की उम्र में भी वोट देने पहुंचे धर्मेंद्र",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/voting_1716187885/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/20/real-time-00000020still001_1716177105.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/20/voting_1716187885/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/20/voting_1716187885/mp4/v360.webp",
+              "duration": 161
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133045510,
+            "shareUri": "https://dainik-b.in/hIrQvGCxJJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/bollywood/news/it-was-not-easy-for-karthik-to-become-chandu-champion-133045510.html",
+            "location": {
+              "id": 0,
+              "text": "मुंबई"
+            },
+            "author": {
+              "id": 53859,
+              "text": "आशीष तिवारी"
+            },
+            "publishTime": "2024-05-20T06:00:05+05:30",
+            "modifiedTime": "2024-05-20T09:56:14+05:30",
+            "videoPublishedTime": "2024-05-20T06:00:05+05:30",
+            "category": {
+              "id": 11215,
+              "nameEn": "Bollywood",
+              "displayName": "बॉलीवुड",
+              "color": "#9D46F3",
+              "listingUrl": "/entertainment/bollywood/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "कार्तिक ने एक साल तक मिठाई को हाथ नहीं लगाया; पेट और चेहरे पर कितनी चोटें लगीं",
+              "slug": "आसान नहीं रहा 'चंदू चैंपियन' बनने का सफर",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/comp-821716045725_1716145118.gif",
+                  "size": {
+                    "w": 500,
+                    "h": 375
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/20/tridev-pandey-2_1716146041/mp4/v360.mp4",
+                  "duration": 298
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "कार्तिक ने एक साल तक मिठाई को हाथ नहीं लगाया; पेट और चेहरे पर कितनी चोटें लगीं",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/tridev-pandey-2_1716146041/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/20/final00063703still001_1716146030.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/20/tridev-pandey-2_1716146041/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/20/tridev-pandey-2_1716146041/mp4/v360.webp",
+              "duration": 298
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044702,
+            "shareUri": "https://dainik-b.in/Ru6qgH1gJJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/bollywood/news/salman-khan-was-about-to-be-cast-in-ghajini-before-amir-khan-133044702.html",
+            "author": {
+              "id": 47477,
+              "text": "दैनिक भास्कर"
+            },
+            "publishTime": "2024-05-20T06:00:00+05:30",
+            "modifiedTime": "2024-05-20T06:00:00+05:30",
+            "videoPublishedTime": "2024-05-20T06:00:00+05:30",
+            "category": {
+              "id": 11215,
+              "nameEn": "Bollywood",
+              "displayName": "बॉलीवुड",
+              "color": "#9D46F3",
+              "listingUrl": "/entertainment/bollywood/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "एक्टर प्रदीप के कहने पर डायरेक्टर मुरुगदास ने सलमान की जगह आमिर को लिया",
+              "slug": "गजनी में होने वाली थी सलमान खान की कास्टिंग",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/asdf_1716132644.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/salman_1716132690/mp4/v360.mp4",
+                  "duration": 44
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "एक्टर प्रदीप के कहने पर डायरेक्टर मुरुगदास ने सलमान की जगह आमिर को लिया",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/salman_1716132690/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/19/salman_1716132683.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/salman_1716132690/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/salman_1716132690/mp4/v360.webp",
+              "duration": 44
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044030,
+            "shareUri": "https://dainik-b.in/zTUY7zAWIJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/news/loksabha-election-2024-shahrukh-khan-to-salman-bollywood-celebs-appealed-to-fans-to-vote-133044030.html",
+            "author": {
+              "id": 47477,
+              "text": "दैनिक भास्कर"
+            },
+            "publishTime": "2024-05-19T16:09:29+05:30",
+            "modifiedTime": "2024-05-19T16:17:01+05:30",
+            "videoPublishedTime": "2024-05-19T16:16:56+05:30",
+            "category": {
+              "id": 3998,
+              "nameEn": "Entertainment",
+              "displayName": "बॉलीवुड",
+              "color": "#9d46f3",
+              "listingUrl": "/entertainment/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "शाहरुख बोले- भारतीय होने की ड्यूटी पूरी करें, सलमान ने लिखा- भारत माता की जय",
+              "slug": "बॉलीवुड सेलेब्स ने फैंस से की मतदान करने की अपील",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/sf_1716114896.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/01-vote_1716115429/mp4/v360.mp4",
+                  "duration": 70
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "शाहरुख बोले- भारतीय होने की ड्यूटी पूरी करें, सलमान ने लिखा- भारत माता की जय",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/01-vote_1716115429/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/19/vote_1716115420.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/01-vote_1716115429/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/01-vote_1716115429/mp4/v360.webp",
+              "duration": 70
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133043780,
+            "shareUri": "https://dainik-b.in/vDvtCeKSIJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/bollywood/news/sanjay-leela-bhansali-started-love-and-war-133043780.html",
+            "author": {
+              "id": 47477,
+              "text": "दैनिक भास्कर"
+            },
+            "publishTime": "2024-05-19T14:31:43+05:30",
+            "modifiedTime": "2024-05-19T15:23:12+05:30",
+            "videoPublishedTime": "2024-05-19T15:23:08+05:30",
+            "category": {
+              "id": 11215,
+              "nameEn": "Bollywood",
+              "displayName": "बॉलीवुड",
+              "color": "#9D46F3",
+              "listingUrl": "/entertainment/bollywood/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "आलिया-रणबीर स्टारर फिल्म के लिए तैयार किया गाना, कहा- इसके बिना फिल्म अधूरी होगी",
+              "slug": "संजय लीला भंसाली की लव एंड वॉर की तैयारी शुरू",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/as_1716109261.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/bhansali_1716112364/mp4/v360.mp4",
+                  "duration": 30
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "आलिया-रणबीर स्टारर फिल्म के लिए तैयार किया गाना, कहा- इसके बिना फिल्म अधूरी होगी",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/bhansali_1716112364/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/19/bhansali_1716112358.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/bhansali_1716112364/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/bhansali_1716112364/mp4/v360.webp",
+              "duration": 30
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133039123,
+            "shareUri": "https://dainik-b.in/CK0eHsvDIJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/bollywood/news/kartik-aaryan-chandu-champion-padmashri-muralikant-petkar-story-133039123.html",
+            "author": {
+              "id": 51967,
+              "text": "दैनिक भास्कर"
+            },
+            "publishTime": "2024-05-19T10:51:59+05:30",
+            "modifiedTime": "2024-05-19T13:51:34+05:30",
+            "videoPublishedTime": "2024-05-19T13:51:32+05:30",
+            "category": {
+              "id": 11215,
+              "nameEn": "Bollywood",
+              "displayName": "बॉलीवुड",
+              "color": "#9D46F3",
+              "listingUrl": "/entertainment/bollywood/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "जिन्हें भारत-पाकिस्तान जंग में 9 गोलियां लगीं; कार्तिक की फिल्म चंदू चैंपियन इन्हीं की लाइफ पर बेस्ड है",
+              "slug": "भारत के पहले पैरालिंपिक गोल्ड मेडलिस्ट मुरलीकांत पेटकर",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/comp-146_1716101618.gif",
+                  "size": {
+                    "w": 500,
+                    "h": 375
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/update-chandu-cham_1716106192/mp4/v360.mp4",
+                  "duration": 176
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "जिन्हें भारत-पाकिस्तान जंग में 9 गोलियां लगीं; कार्तिक की फिल्म चंदू चैंपियन इन्हीं की लाइफ पर बेस्ड है",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/update-chandu-cham_1716106192/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/19/chandu_1716099528.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/update-chandu-cham_1716106192/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/19/update-chandu-cham_1716106192/mp4/v360.webp",
+              "duration": 176
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133038745,
+            "shareUri": "https://dainik-b.in/pLF83R89GJb",
+            "templateType": "running",
+            "shortUrl": "/entertainment/bollywood/news/shreyas-used-to-improvise-during-om-shanti-om-shahrukh-also-used-to-support-him-one-day-director-farah-scolded-both-of-them-133038745.html",
+            "author": {
+              "id": 53859,
+              "text": "दैनिक भास्कर"
+            },
+            "publishTime": "2024-05-19T06:00:00+05:30",
+            "modifiedTime": "2024-05-19T10:26:18+05:30",
+            "videoPublishedTime": "2024-05-19T06:00:00+05:30",
+            "category": {
+              "id": 11215,
+              "nameEn": "Bollywood",
+              "displayName": "बॉलीवुड",
+              "color": "#9D46F3",
+              "listingUrl": "/entertainment/bollywood/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icentertainment1_1585397701.png"
+            },
+            "header": {
+              "title": "शाहरुख भी उनका साथ देते थे, एक दिन डायरेक्टर फराह ने दोनों को डांट लगा दी",
+              "slug": "'ओम शांति ओम' के वक्त इम्प्रोवाइजेशन करते थे श्रेयस",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/18/collage-2024-05-18t120657773_1716014225.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/18/shreyas_1716019886/mp4/v360.mp4",
+                  "duration": 36
+                }
+              ]
+            },
+            "videoSummary": {
+              "type": "video",
+              "text": "शाहरुख भी उनका साथ देते थे, एक दिन डायरेक्टर फराह ने दोनों को डांट लगा दी",
+              "url": "https://videos.bhaskarassets.com/2024/05/18/shreyas_1716019886/mp4/v360.mp4",
+              "thumbUrl": "https://images.bhaskarassets.com/web2images/521/2024/05/18/shreyas_1716019883.jpg",
+              "videoThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/18/shreyas_1716019886/mp4/v360.mp4",
+              "webpThumbUrl": "https://videos.bhaskarassets.com/thumb/256x0/2024/05/18/shreyas_1716019886/mp4/v360.webp",
+              "duration": 36
+            },
+            "articleLockType": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "15630",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 15630,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 15630,
+          "nameEn": "Lifestyle",
+          "displayName": "लाइफस्टाइल",
+          "color": "#7059ff",
+          "listingUrl": "/lifestyle/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/10/03/categorylifestyle_1696313048.png"
+        }
+      }
+    },
+    {
+      "id": "133044547",
+      "type": "story",
+      "metadata": {
+        "sectionId": "15630",
+        "sectionCatListingUrl": "/lifestyle/",
+        "sectionCatId": "15630",
+        "sectionCatName": "Lifestyle"
+      },
+      "data": {
+        "storyId": 133044547,
+        "shareUri": "https://dainik-b.in/x8zpHqLaJJb",
+        "templateType": "running",
+        "shortUrl": "/lifestyle/news/social-media-benefits-explained-friendship-opportunities-133044547.html",
+        "publishTime": "2024-05-20T04:40:40+05:30",
+        "modifiedTime": "2024-05-20T04:40:40+05:30",
+        "category": {
+          "id": 15630,
+          "nameEn": "Lifestyle",
+          "displayName": "लाइफस्टाइल",
+          "color": "#7059ff",
+          "listingUrl": "/lifestyle/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/10/03/categorylifestyle_1696313048.png"
+        },
+        "header": {
+          "title": "सीखने-समझने के ज्यादा मौके, नए दोस्त बनने की संभावना ज्यादा",
+          "slug": "रिलेशनशिप- सोशल मीडिया के सिर्फ नुकसान नहीं, फायदे भी हैं",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/relationship-cover-19-may_1716126991.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133039576",
+      "type": "story",
+      "metadata": {
+        "sectionId": "15630",
+        "sectionCatListingUrl": "/lifestyle/",
+        "sectionCatId": "15630",
+        "sectionCatName": "Lifestyle"
+      },
+      "data": {
+        "storyId": 133039576,
+        "shareUri": "https://dainik-b.in/Bvm2avKqHJb",
+        "templateType": "running",
+        "shortUrl": "/lifestyle/news/dreams-and-sleep-nind-drawne-sapne-133039576.html",
+        "publishTime": "2024-05-19T04:40:00+05:30",
+        "modifiedTime": "2024-05-19T04:40:00+05:30",
+        "category": {
+          "id": 15630,
+          "nameEn": "Lifestyle",
+          "displayName": "लाइफस्टाइल",
+          "color": "#7059ff",
+          "listingUrl": "/lifestyle/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/10/03/categorylifestyle_1696313048.png"
+        },
+        "header": {
+          "title": "क्या सपनों का कोई कनेक्शन सेहत से भी है, रोज डरावने सपने आएं तो क्या डॉक्टर के पास जाना चाहिए",
+          "slug": "सेहतनामा- क्यों आते हैं सपने",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/18/sehatnama-cover-18-may_1716036793.png",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "11945",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 11945,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 11945,
+          "nameEn": "Jobs & Education",
+          "displayName": "जॉब - एजुकेशन",
+          "color": "#22b6e4",
+          "listingUrl": "/career/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icjobsandeducation1_1585398629.png"
+        }
+      }
+    },
+    {
+      "id": "133048408",
+      "type": "story",
+      "metadata": {
+        "sectionId": "11945",
+        "sectionCatListingUrl": "/career/",
+        "sectionCatId": "11945",
+        "sectionCatName": "Jobs & Education"
+      },
+      "data": {
+        "storyId": 133048408,
+        "shareUri": "https://dainik-b.in/ghxHxJWlKJb",
+        "templateType": "running",
+        "shortUrl": "/career/news/rajasthan-board-10th-12th-result-declared-check-marksheet-direct-link-to-download-133048408.html",
+        "publishTime": "2024-05-20T12:39:23+05:30",
+        "modifiedTime": "2024-05-20T12:39:23+05:30",
+        "category": {
+          "id": 11945,
+          "nameEn": "Jobs & Education",
+          "displayName": "जॉब - एजुकेशन",
+          "color": "#22b6e4",
+          "listingUrl": "/career/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icjobsandeducation1_1585398629.png"
+        },
+        "header": {
+          "title": "साइंस में 97.73% स्टूडेंट्स पास, देखें तीनों स्ट्रीम का रिजल्ट, डायरेक्ट लिंक",
+          "slug": "राजस्थान बोर्ड 12वीं का रिजल्ट जारी",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/15/2024_1715759505.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133044155",
+      "type": "story",
+      "metadata": {
+        "sectionId": "11945",
+        "sectionCatListingUrl": "/career/",
+        "sectionCatId": "11945",
+        "sectionCatName": "Jobs & Education"
+      },
+      "data": {
+        "storyId": 133044155,
+        "shareUri": "https://dainik-b.in/JK8JrAa0IJb",
+        "templateType": "running",
+        "shortUrl": "/career/news/toppers-mantra-anshuman-from-bihar-cleared-upsc-2-times-shares-toppers-tips-and-tricks-133044155.html",
+        "publishTime": "2024-05-20T05:55:00+05:30",
+        "modifiedTime": "2024-05-20T06:12:32+05:30",
+        "videoPublishedTime": "2024-05-20T05:55:00+05:30",
+        "category": {
+          "id": 11945,
+          "nameEn": "Jobs & Education",
+          "displayName": "जॉब - एजुकेशन",
+          "color": "#22b6e4",
+          "listingUrl": "/career/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icjobsandeducation1_1585398629.png"
+        },
+        "header": {
+          "title": "NCERT, अखबार से तैयारी की; अंशुमन ने बिना कोचिंग दो बार क्रैक किया UPSC",
+          "slug": "टॉपर्स मंत्रा - विदेश की नौकरी छोड़ IAS बने",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/_1716118455.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/toppers-mantraanshuman-raj18051_1716124025/mp4/v360.mp4",
+              "duration": 420
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133048162",
+      "type": "story",
+      "metadata": {
+        "sectionId": "11945",
+        "sectionCatListingUrl": "/career/",
+        "sectionCatId": "11945",
+        "sectionCatName": "Jobs & Education"
+      },
+      "data": {
+        "storyId": 133048162,
+        "shareUri": "https://dainik-b.in/i7ZlEludKJb",
+        "templateType": "running",
+        "shortUrl": "/career/news/application-date-extended-for-recruitment-to-239-posts-in-nlc-now-apply-till-15-june-10th-pass-has-the-opportunity-133048162.html",
+        "publishTime": "2024-05-20T10:41:01+05:30",
+        "modifiedTime": "2024-05-20T10:57:32+05:30",
+        "category": {
+          "id": 11945,
+          "nameEn": "Jobs & Education",
+          "displayName": "जॉब - एजुकेशन",
+          "color": "#22b6e4",
+          "listingUrl": "/career/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icjobsandeducation1_1585398629.png"
+        },
+        "header": {
+          "title": "NLC में 239 पदों पर भर्ती के लिए आवेदन की तारीख बढ़ी, अब 15 जून तक करें अप्लाय, 10वीं पास को मौका",
+          "slug": "सरकारी नौकरी",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/gg_1716181282.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "14",
+      "type": "series",
+      "data": {
+        "storyId": 14,
+        "category": {
+          "id": 14,
+          "nameEn": "करियर Swipe",
+          "displayName": "करियर Swipe",
+          "color": "#FF554B"
+        },
+        "widgetColors": {
+          "dark": {
+            "bg": "#18191A",
+            "text": "#E4E6EB"
+          },
+          "light": {
+            "bg": "#FFFFFF",
+            "text": "#2B2B2B"
+          },
+          "themeName": "White"
+        },
+        "widgetData": [
+          {
+            "storyId": 133048430,
+            "shareUri": "https://dainik-b.in/Gw6UsoCmKJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/hal-has-released-recruitment-for-200-apprentice-posts-last-date-is-22nd-may-interview-will-be-held-on-23rd-and-24th-may-133048430.html",
+            "publishTime": "2024-05-20T12:48:47+05:30",
+            "modifiedTime": "2024-05-20T12:48:47+05:30",
+            "showDate": true,
+            "category": {
+              "id": 15619,
+              "nameEn": "Sarkari Naukri",
+              "displayName": "सरकारी नौकरी",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/sarkari-naukri/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/09/29/sarkari-naukri_1695990042.png"
+            },
+            "header": {
+              "title": "HAL में अप्रेंटिस के 200 पदों पर निकली भर्ती, 22 मई लास्ट डेट, 23 और 24 मई को होगा इंटरव्यू",
+              "slug": "सरकारी नौकरी",
+              "containsVideo": false,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/12_1716189463.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133040691,
+            "shareUri": "https://dainik-b.in/25746PLSHJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/current-affairs-who-became-the-first-woman-dgp-of-northeast-india-in-which-country-did-phonepe-launch-upi-play-this-weeks-quiz-133040691.html",
+            "publishTime": "2024-05-19T00:55:53+05:30",
+            "modifiedTime": "2024-05-19T00:55:53+05:30",
+            "showDate": true,
+            "category": {
+              "id": 15624,
+              "nameEn": "Current Affairs",
+              "displayName": "करेंट अफेयर्स",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/current-affairs/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/09/29/current-affairs_1695991602.png"
+            },
+            "header": {
+              "title": "पूर्वोत्तर भारत की पहली महिला DGP कौन बनीं, PhonePe ने किस देश में UPI लॉन्च किया; खेलें इस हफ्ते की क्विज",
+              "slug": "Sunday Quiz",
+              "containsVideo": false,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/18/sunday-quiz-cover11714813087_1716029226.jpg",
+                  "size": {
+                    "w": 360,
+                    "h": 270
+                  }
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044416,
+            "shareUri": "https://dainik-b.in/pg3IS906IJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/management-funda-by-n-raghuraman-workplace-productivity-strategies-133044416.html",
+            "publishTime": "2024-05-20T05:00:58+05:30",
+            "modifiedTime": "2024-05-20T05:32:00+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-19T18:43:23+05:30",
+            "category": {
+              "id": 15659,
+              "nameEn": "Management Funda",
+              "displayName": "मैनेजमेंट फंडा",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/management-funda/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/12/20/managment-funda_1703068461.jpg"
+            },
+            "header": {
+              "title": "ऑफिस में सूडो प्रोडक्टिविटी को पहचानें, अच्‍छे काम को रिवॉर्ड जरूर दें",
+              "slug": "मैनेजमेंट फंडा by एन रघुरामन",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/1000273615_1716122067.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/managament-funda-ep-121_1716121706/mp4/v360.mp4",
+                  "duration": 169
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/19/managament-funda-ep-121-1_1716121787.m4a",
+              "duration": 167,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 132576948,
+            "shareUri": "https://dainik-b.in/5WzJI05Y7Gb",
+            "templateType": "running",
+            "shortUrl": "/career/news/up-board-12th-sample-paper-biology-model-paper-132576948.html",
+            "publishTime": "2024-02-14T06:00:44+05:30",
+            "modifiedTime": "2024-02-14T06:00:44+05:30",
+            "showDate": true,
+            "category": {
+              "id": 15663,
+              "nameEn": "Sample Papers",
+              "displayName": "सैम्पल पेपर्स",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/sample-papers/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2024/01/04/sample-papers_1704367143.png"
+            },
+            "header": {
+              "title": "29 फरवरी को बायोलॉजी का एग्जाम, विद्या प्रकाशन के मॉडल पेपर से करें प्रैक्टिस",
+              "slug": "UP बोर्ड 12th सैंपल पेपर",
+              "containsVideo": false,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/02/12/6_1707736381.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044155,
+            "shareUri": "https://dainik-b.in/JK8JrAa0IJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/toppers-mantra-anshuman-from-bihar-cleared-upsc-2-times-shares-toppers-tips-and-tricks-133044155.html",
+            "publishTime": "2024-05-20T05:55:00+05:30",
+            "modifiedTime": "2024-05-20T06:12:32+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T05:55:00+05:30",
+            "category": {
+              "id": 15685,
+              "nameEn": "Toppers Mantra",
+              "displayName": "टॉपर्स मंत्रा",
+              "color": "#F89C1B",
+              "listingUrl": "/bhaskar-khaas/toppers-mantra-/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2024/01/12/toppers-mantra_1705042881.png"
+            },
+            "header": {
+              "title": "NCERT, अखबार से तैयारी की; अंशुमन ने बिना कोचिंग दो बार क्रैक किया UPSC",
+              "slug": "टॉपर्स मंत्रा - विदेश की नौकरी छोड़ IAS बने",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/_1716118455.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/toppers-mantraanshuman-raj18051_1716124025/mp4/v360.mp4",
+                  "duration": 420
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133048233,
+            "shareUri": "https://dainik-b.in/ZlOPRaghKJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/vacancy-for-assistant-manager-in-flipkart-graduates-can-apply-training-will-be-provided-job-location-gurugram-133048233.html",
+            "publishTime": "2024-05-20T11:33:47+05:30",
+            "modifiedTime": "2024-05-20T11:33:47+05:30",
+            "showDate": true,
+            "category": {
+              "id": 15620,
+              "nameEn": "Private Naukri",
+              "displayName": "प्राइवेट नौकरी",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/private-naukri/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/09/29/private-naukri_1695990484.png"
+            },
+            "header": {
+              "title": "Flipkart में असिस्टेंट मैनेजर की वैकेंसी, ग्रेजुएट करें अप्लाय, ट्रेनिंग प्रोवाइड करना होगा, जॉब लोकेशन गुरुग्राम",
+              "slug": "प्राइवेट नौकरी",
+              "containsVideo": false,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/ddd-1_1716184828.jpg",
+                  "size": {
+                    "w": 730,
+                    "h": 548
+                  }
+                }
+              ]
+            },
+            "articleLockType": "NONE"
+          },
+          {
+            "storyId": 133044432,
+            "shareUri": "https://dainik-b.in/XcS4w5u7IJb",
+            "templateType": "running",
+            "shortUrl": "/career/news/jobs-education-latest-update-mbbs-graduates-vacancy-du-phd-admission-guideline-133044432.html",
+            "publishTime": "2024-05-20T05:30:00+05:30",
+            "modifiedTime": "2024-05-20T05:30:00+05:30",
+            "showDate": true,
+            "videoPublishedTime": "2024-05-20T05:30:00+05:30",
+            "category": {
+              "id": 15623,
+              "nameEn": "Job & Education Bulletin",
+              "displayName": "जॉब & एजुकेशन बुलेटिन",
+              "color": "#f89c1d",
+              "listingUrl": "/bhaskar-khaas/job-&-education-bulletin/",
+              "img": "https://images.bhaskarassets.com/web2images/521/2023/09/29/job-and-education-bulletin_1695991440.png"
+            },
+            "header": {
+              "title": "रेलवे में बिना एग्जाम नौकरी पाने का मौका, MBBS पास के लिए 2553 पदों पर भर्ती निकली",
+              "slug": "जॉब एंड एजुकेशन बुलेटिन",
+              "containsVideo": true,
+              "media": [
+                {
+                  "type": "image",
+                  "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/job-bulletin41_1716119137.gif",
+                  "size": {
+                    "w": 500,
+                    "h": 375
+                  }
+                },
+                {
+                  "type": "video",
+                  "url": "https://videos.bhaskarassets.com/2024/05/19/updatecarrier-bulletin1905_1716126275/mp4/v360.mp4",
+                  "duration": 113
+                }
+              ]
+            },
+            "podcast": {
+              "type": "audio",
+              "url": "https://audios.bhaskarassets.com/2024/05/19/carrier-bulletin19051_1716126493.m4a",
+              "duration": 112,
+              "highlight": false
+            },
+            "articleLockType": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4587",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 4587,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 4587,
+          "nameEn": "DB Original",
+          "displayName": "DB ओरिजिनल",
+          "color": "#f89c1d",
+          "listingUrl": "/db-original/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdboriginals1_1585398537.png"
+        }
+      }
+    },
+    {
+      "id": "133039721",
+      "type": "story",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "4587",
+        "sectionCatListingUrl": "/db-original/",
+        "sectionCatId": "4587",
+        "sectionCatName": "DB Original"
+      },
+      "data": {
+        "storyId": 133039721,
+        "shareUri": "https://dainik-b.in/pB2cqlgvHJb",
+        "templateType": "running",
+        "shortUrl": "/career/news/west-bengal-students-naxalbari-movement-history-explained-133039721.html",
+        "publishTime": "2024-05-19T05:15:01+05:30",
+        "modifiedTime": "2024-05-19T05:16:20+05:30",
+        "videoPublishedTime": "2024-05-19T05:15:01+05:30",
+        "category": {
+          "id": 11945,
+          "nameEn": "Jobs & Education",
+          "displayName": "जॉब - एजुकेशन",
+          "color": "#22b6e4",
+          "listingUrl": "/career/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icjobsandeducation1_1585398629.png"
+        },
+        "header": {
+          "title": "पढ़ाई छोड़ लूट और हत्‍याएं करने लगे छात्र; नक्‍सली आंदोलन की पूरी कहानी",
+          "slug": "रकस - 3: किताबें जलाईं, कॉलेजों पर बम फेंके",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/18/1-1-1_1716039813.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/18/ruckus-ep-31805update_1716055736/mp4/v360.mp4",
+              "duration": 432
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/18/audioupdate-ruckus1805_1716055712.m4a",
+          "duration": 432,
+          "highlight": false
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133047443",
+      "type": "story",
+      "metadata": {
+        "sectionId": "4587",
+        "sectionCatListingUrl": "/db-original/",
+        "sectionCatId": "4587",
+        "sectionCatName": "DB Original"
+      },
+      "data": {
+        "storyId": 133047443,
+        "shareUri": "https://dainik-b.in/kxEKPqjRJJb",
+        "templateType": "running",
+        "shortUrl": "/db-original/news/varanasi-lok-sabha-election-2024-comedian-shyam-rangeela-vs-pm-narendra-modi-133047443.html",
+        "publishTime": "2024-05-20T05:30:42+05:30",
+        "modifiedTime": "2024-05-20T12:01:40+05:30",
+        "videoPublishedTime": "2024-05-20T05:30:42+05:30",
+        "category": {
+          "id": 4587,
+          "nameEn": "DB Original",
+          "displayName": "DB ओरिजिनल",
+          "color": "#f89c1d",
+          "listingUrl": "/db-original/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdboriginals1_1585398537.png"
+        },
+        "header": {
+          "title": "श्याम रंगीला बोले- 10 साल बाद सरकार बदलनी चाहिए, नहीं तो अहंकार आ जाता है",
+          "slug": "PM ह्यूमर की रिस्पेक्ट करते, तो उनका भक्त होता",
+          "containsVideo": true,
+          "tag": {
+            "text": "VIP इंटरव्यू",
+            "bgColorStart": "#F44336"
+          },
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/gr-18may-cover-02_1716110194.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/video-of-shyam-rangeela-interview-devanshu_1716113674/mp4/v360.mp4",
+              "duration": 435
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/19/audio-of-shyam-rangeela-interview-devanshu_1716113980.m4a",
+          "duration": 434,
+          "highlight": false
+        },
+        "articleLockType": "LOCKED"
+      }
+    },
+    {
+      "id": "133042769",
+      "type": "story",
+      "metadata": {
+        "sectionId": "4587",
+        "sectionCatListingUrl": "/db-original/",
+        "sectionCatId": "4587",
+        "sectionCatName": "DB Original"
+      },
+      "data": {
+        "storyId": 133042769,
+        "shareUri": "https://dainik-b.in/q7RtIRDbIJb",
+        "templateType": "running",
+        "shortUrl": "/bhaskar-khaas/bhaskar-explainer/news/solar-storm-phenomena-explained-ladakh-night-sky-red-lights-aurora-borealis-133042769.html",
+        "publishTime": "2024-05-19T05:19:58+05:30",
+        "modifiedTime": "2024-05-19T05:20:04+05:30",
+        "videoPublishedTime": "2024-05-19T05:19:58+05:30",
+        "category": {
+          "id": 15596,
+          "nameEn": "Bhaskar Explainer",
+          "displayName": "भास्कर एक्सप्लेनर",
+          "color": "#f89c1d",
+          "listingUrl": "/bhaskar-khaas/bhaskar-explainer/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2023/08/07/artboard-1-copy-2_1691421959.png"
+        },
+        "header": {
+          "title": "दुनिया में संचार और GPS सिस्टम बाधित; 8 सवालों में सोलर स्टॉर्म के खतरे की कहानी",
+          "slug": "भास्कर एक्सप्लेनर- लद्दाख का आसमान लाल क्यों हो गया",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/explainer19th-may-cover-1_1716061356.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/18/copy-of-1_1716055745/mp4/v360.mp4",
+              "duration": 262
+            }
+          ]
+        },
+        "podcast": {
+          "type": "audio",
+          "url": "https://audios.bhaskarassets.com/2024/05/18/copy-of_1716055936.m4a",
+          "duration": 261,
+          "highlight": false
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "5176",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 5176,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 5176,
+          "nameEn": "IPL 2024",
+          "displayName": "IPL 2024",
+          "color": "#0f86f5",
+          "listingUrl": "/sports/cricket/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        }
+      }
+    },
+    {
+      "id": "133045536",
+      "type": "story",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "5176",
+        "sectionCatListingUrl": "/sports/cricket/",
+        "sectionCatId": "5176",
+        "sectionCatName": "IPL 2024"
+      },
+      "data": {
+        "storyId": 133045536,
+        "shareUri": "https://dainik-b.in/eslqilUxJJb",
+        "templateType": "running",
+        "shortUrl": "/sports/cricket/news/ipl-2024-srh-vs-pbks-ipl-match-records-update-133045536.html",
+        "publishTime": "2024-05-20T05:30:47+05:30",
+        "modifiedTime": "2024-05-20T06:38:37+05:30",
+        "videoPublishedTime": "2024-05-20T04:29:14+05:30",
+        "category": {
+          "id": 5176,
+          "nameEn": "IPL 2024",
+          "displayName": "IPL 2024",
+          "color": "#0f86f5",
+          "listingUrl": "/sports/cricket/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "एक टी-20 लीग में सबसे ज्यादा सिक्स लगाने वाली टीम बनी, हर्षल ने 24 विकेट लिए; रिकॉर्ड्स",
+          "slug": "SRH ने 215 रन चेज किए",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/srh_1716143627.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/_1716159534/mp4/v360.mp4",
+              "duration": 70
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133045501",
+      "type": "story",
+      "metadata": {
+        "sectionId": "5176",
+        "sectionCatListingUrl": "/sports/cricket/",
+        "sectionCatId": "5176",
+        "sectionCatName": "IPL 2024"
+      },
+      "data": {
+        "storyId": 133045501,
+        "shareUri": "https://dainik-b.in/4I754TzxJJb",
+        "templateType": "running",
+        "shortUrl": "/sports/cricket/news/ipl-2024-srh-vs-pbks-match-moments-update-133045501.html",
+        "publishTime": "2024-05-20T05:30:48+05:30",
+        "modifiedTime": "2024-05-20T06:38:42+05:30",
+        "videoPublishedTime": "2024-05-20T02:42:40+05:30",
+        "category": {
+          "id": 5176,
+          "nameEn": "IPL 2024",
+          "displayName": "IPL 2024",
+          "color": "#0f86f5",
+          "listingUrl": "/sports/cricket/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png"
+        },
+        "header": {
+          "title": "कंफ्यूजन में रनआउट हुए शशांक, स्कूप शॉट खेलने के चक्कर में बोल्ड हुए क्लासन; मैच मोमेंट्स",
+          "slug": "अर्शदीप ने पहली बॉल पर हेड को बोल्ड किया",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/s9-11_1716144724.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/_1716153144/mp4/v360.mp4",
+              "duration": 75
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133047558",
+      "type": "story",
+      "metadata": {
+        "sectionId": "5176",
+        "sectionCatListingUrl": "/sports/cricket/",
+        "sectionCatId": "5176",
+        "sectionCatName": "IPL 2024"
+      },
+      "data": {
+        "storyId": 133047558,
+        "shareUri": "https://dainik-b.in/bQKbtcwVJJb",
+        "templateType": "running",
+        "shortUrl": "/local/chhattisgarh/news/chhattisgarh-premier-league-update-suresh-raina-raipur-visit-133047558.html",
+        "publishTime": "2024-05-20T06:29:33+05:30",
+        "modifiedTime": "2024-05-20T12:11:25+05:30",
+        "videoPublishedTime": "2024-05-20T06:29:33+05:30",
+        "category": {
+          "id": 1741,
+          "nameEn": "Chhattisgarh",
+          "displayName": "छत्तीसगढ़",
+          "color": "#ff554b",
+          "listingUrl": "/local/chhattisgarh/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2022/05/24/chhattisgarh_1653383395.png"
+        },
+        "header": {
+          "title": "छत्तीसगढ़ प्रीमियर लीग को लेकर डिप्टी CM से की मुलाकात; बनाए गए हैं ब्रांड एैंबेस्डर",
+          "slug": "रायपुर में सुरेश रैना बोले- माही फिर IPL में खेलेंगे",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/s2-4_1716132788.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/suresh-raina_1716177643/mp4/v360.mp4",
+              "duration": 71
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "1061",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 1061,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 1061,
+          "nameEn": "National",
+          "displayName": "देश",
+          "color": "#83b82e",
+          "listingUrl": "/national/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+        }
+      }
+    },
+    {
+      "id": "133044758",
+      "type": "story",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "1061",
+        "sectionCatListingUrl": "/national/",
+        "sectionCatId": "1061",
+        "sectionCatName": "National"
+      },
+      "data": {
+        "storyId": 133044758,
+        "shareUri": "https://dainik-b.in/CrXveM5lJJb",
+        "templateType": "running",
+        "shortUrl": "/national/news/pm-narendra-modi-cuttack-rally-puri-road-show-in-odisha-updates-133044758.html",
+        "publishTime": "2024-05-20T05:10:00+05:30",
+        "modifiedTime": "2024-05-20T12:59:23+05:30",
+        "videoPublishedTime": "2024-05-20T02:03:03+05:30",
+        "category": {
+          "id": 1061,
+          "nameEn": "National",
+          "displayName": "देश",
+          "color": "#83b82e",
+          "listingUrl": "/national/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+        },
+        "header": {
+          "title": "ओडिशा के CM हाउस में भ्रष्टाचारियों का कब्जा, BJD के छोटे-छोटे नेता भी करोड़पति",
+          "slug": "PM बोले- 10 जून को भाजपा का मुख्यमंत्री शपथ लेगा",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/comp-42_1716185655.gif",
+              "size": {
+                "w": 500,
+                "h": 375
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/02-1_1716150770/mp4/v360.mp4",
+              "duration": 57
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133048094",
+      "type": "story",
+      "metadata": {
+        "sectionId": "1061",
+        "sectionCatListingUrl": "/national/",
+        "sectionCatId": "1061",
+        "sectionCatName": "National"
+      },
+      "data": {
+        "storyId": 133048094,
+        "shareUri": "https://dainik-b.in/vHknf7Q9JJb",
+        "templateType": "running",
+        "shortUrl": "/national/news/lok-sabha-election-2024-20-may-live-updates-pm-modi-rahul-gandhi-bjp-congress-mp-rajasthan-up-bihar-chhattisgarh-goa-133048094.html",
+        "publishTime": "2024-05-20T09:50:11+05:30",
+        "modifiedTime": "2024-05-20T12:05:44+05:30",
+        "videoPublishedTime": "2024-05-20T12:49:33+05:30",
+        "category": {
+          "id": 1061,
+          "nameEn": "National",
+          "displayName": "देश",
+          "color": "#83b82e",
+          "listingUrl": "/national/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+        },
+        "header": {
+          "title": "PM मोदी बोले- मैं अल्पसंख्यकों के खिलाफ नहीं, केवल कांग्रेस की वोट बैंक पॉलिटिक्स को बेनकाब करना चाहता हूं",
+          "slug": "लोकसभा चुनाव-2024",
+          "containsVideo": true,
+          "tag": {
+            "text": "LIVE",
+            "bgColorStart": "#F44336"
+          },
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/modi-14_1716181337.jpg",
+              "size": {
+                "w": 2920,
+                "h": 2190
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/pm_1716189542/mp4/v360.mp4",
+              "duration": 57
+            }
+          ]
+        },
+        "articleLockType": "NONE",
+        "blog": {
+          "isLive": true
+        }
+      }
+    },
+    {
+      "id": "133048152",
+      "type": "story",
+      "metadata": {
+        "sectionId": "1061",
+        "sectionCatListingUrl": "/national/",
+        "sectionCatId": "1061",
+        "sectionCatName": "National"
+      },
+      "data": {
+        "storyId": 133048152,
+        "shareUri": "https://dainik-b.in/RuZ9jAZcKJb",
+        "templateType": "running",
+        "shortUrl": "/national/news/imd-weather-heatwave-alert-update-delhi-up-mp-rajasthan-kerala-rainfall-133048152.html",
+        "publishTime": "2024-05-20T10:34:05+05:30",
+        "modifiedTime": "2024-05-20T12:00:28+05:30",
+        "videoPublishedTime": "2024-05-20T12:40:10+05:30",
+        "category": {
+          "id": 1061,
+          "nameEn": "National",
+          "displayName": "देश",
+          "color": "#83b82e",
+          "listingUrl": "/national/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icdesh1_1585397553.png"
+        },
+        "header": {
+          "title": "दिल्ली में तापमान 47.8º; केरल-तमिलनाडु में 2 दिन तक बारिश का रेड अलर्ट",
+          "slug": "UP समेत 4 राज्यों में आज सीवियर हीटवेव की चेतावनी",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/_1716181408.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/1_1716188997/mp4/v360.mp4",
+              "duration": 60
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "1125",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 1125,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 1125,
+          "nameEn": "International",
+          "displayName": "विदेश",
+          "color": "#39c3a2",
+          "listingUrl": "/international/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icvidesh1_1585398719.png"
+        }
+      }
+    },
+    {
+      "id": "133044517",
+      "type": "story",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "1125",
+        "sectionCatListingUrl": "/international/",
+        "sectionCatId": "1125",
+        "sectionCatName": "International"
+      },
+      "data": {
+        "storyId": 133044517,
+        "shareUri": "https://dainik-b.in/k2uiNmV9IJb",
+        "templateType": "running",
+        "shortUrl": "/international/news/wikileaks-julian-assange-faces-us-extradition-judgment-today-133044517.html",
+        "publishTime": "2024-05-20T07:00:00+05:30",
+        "modifiedTime": "2024-05-20T10:27:23+05:30",
+        "category": {
+          "id": 1125,
+          "nameEn": "International",
+          "displayName": "विदेश",
+          "color": "#39c3a2",
+          "listingUrl": "/international/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icvidesh1_1585398719.png"
+        },
+        "header": {
+          "title": "ब्रिटेन में सुनवाई; इराक युद्ध से जुड़ी खुफिया जानकारी लीक की थी",
+          "slug": "विकिलीक्स फाउंडर जूलियन असांजे को अमेरिका भेजने पर फैसला आज",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/2011112127235435_1716126687.jpg",
+              "size": {
+                "w": 2552,
+                "h": 1914
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133043565",
+      "type": "story",
+      "metadata": {
+        "sectionId": "1125",
+        "sectionCatListingUrl": "/international/",
+        "sectionCatId": "1125",
+        "sectionCatName": "International"
+      },
+      "data": {
+        "storyId": 133043565,
+        "shareUri": "https://dainik-b.in/pp717pKHIJb",
+        "templateType": "running",
+        "shortUrl": "/local/rajasthan/dausa/news/kyrgyzstan-violence-indian-students-video-dausa-bjp-mla-rajendra-meena-dausa-news-133043565.html",
+        "publishTime": "2024-05-19T12:49:10+05:30",
+        "modifiedTime": "2024-05-19T21:27:37+05:30",
+        "videoPublishedTime": "2024-05-19T16:36:27+05:30",
+        "category": {
+          "id": 13666,
+          "nameEn": "Dausa",
+          "displayName": "दौसा",
+          "color": "#FF554B",
+          "listingUrl": "/local/rajasthan/dausa/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2022/05/24/rajasthan_1653383601.png"
+        },
+        "header": {
+          "title": "बोले- शाम होते ही लोकल स्टूडेंट्स करने लगते हैं हमला; कॉलेज वालों ने वीडियो कॉल पर लगाई पाबंदी",
+          "slug": "किर्गिस्तान हिंसा में फंसे राजस्थान के स्टूडेंट",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/19/comp-3_1716104954.gif",
+              "size": {
+                "w": 600,
+                "h": 450
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/19/rj-student1_1716116755/mp4/v360.mp4",
+              "duration": 121
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133046847",
+      "type": "story",
+      "metadata": {
+        "sectionId": "1125",
+        "sectionCatListingUrl": "/international/",
+        "sectionCatId": "1125",
+        "sectionCatName": "International"
+      },
+      "data": {
+        "storyId": 133046847,
+        "shareUri": "https://dainik-b.in/PMTVZtgKJJb",
+        "templateType": "running",
+        "shortUrl": "/international/news/gopi-thotakura-becomes-first-indian-space-tourist-133046847.html",
+        "publishTime": "2024-05-20T03:52:05+05:30",
+        "modifiedTime": "2024-05-20T10:35:58+05:30",
+        "videoPublishedTime": "2024-05-20T05:59:25+05:30",
+        "category": {
+          "id": 1125,
+          "nameEn": "International",
+          "displayName": "विदेश",
+          "color": "#39c3a2",
+          "listingUrl": "/international/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icvidesh1_1585398719.png"
+        },
+        "header": {
+          "title": "अमेजन फाउंडर जेफ बेजोस की कंपनी ने भेजा; 7वीं ह्यूमन स्पेसफ्लाइट में 6 लोग मौजूद",
+          "slug": "गोपी थोटाकुरा स्पेस में जाने वाले पहले भारतवंशी टूरिस्ट बने",
+          "containsVideo": true,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/2_1716150846.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            },
+            {
+              "type": "video",
+              "url": "https://videos.bhaskarassets.com/2024/05/20/_1716164949/mp4/v360.mp4",
+              "duration": 74
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "1051",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 1051,
+        "isShowLocalCatLink": true,
+        "category": {
+          "id": 1051,
+          "nameEn": "Business",
+          "displayName": "बिजनेस",
+          "color": "#3e9e3e",
+          "listingUrl": "/business/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icmoneybhaskar15853186191_1585398499.png"
+        }
+      }
+    },
+    {
+      "id": "133048340",
+      "type": "story",
+      "templateId": "1",
+      "metadata": {
+        "sectionId": "1051",
+        "sectionCatListingUrl": "/business/",
+        "sectionCatId": "1051",
+        "sectionCatName": "Business"
+      },
+      "data": {
+        "storyId": 133048340,
+        "shareUri": "https://dainik-b.in/SNz1dRtkKJb",
+        "templateType": "running",
+        "shortUrl": "/business/news/pm-modi-stock-market-prediction-2024-update-lok-sabha-election-result-impact-133048340.html",
+        "publishTime": "2024-05-20T12:18:52+05:30",
+        "modifiedTime": "2024-05-20T13:02:16+05:30",
+        "category": {
+          "id": 1051,
+          "nameEn": "Business",
+          "displayName": "बिजनेस",
+          "color": "#3e9e3e",
+          "listingUrl": "/business/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icmoneybhaskar15853186191_1585398499.png"
+        },
+        "header": {
+          "title": "PM मोदी बोले-10 साल में 25,000 से 75,000 पर पहुंचा सेंसेक्स, PSU में रही बढ़त",
+          "slug": "चुनाव नतीजों के बाद शेयर बाजार में तेजी आएगी",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/5555_1716185530.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133048133",
+      "type": "story",
+      "metadata": {
+        "sectionId": "1051",
+        "sectionCatListingUrl": "/business/",
+        "sectionCatId": "1051",
+        "sectionCatName": "Business"
+      },
+      "data": {
+        "storyId": 133048133,
+        "shareUri": "https://dainik-b.in/eSIXgP0bKJb",
+        "templateType": "running",
+        "shortUrl": "/business/news/fd-premature-withdrawal-penalty-loan-against-fd-benefits-interest-rate-133048133.html",
+        "publishTime": "2024-05-20T10:20:22+05:30",
+        "modifiedTime": "2024-05-20T10:20:22+05:30",
+        "category": {
+          "id": 1051,
+          "nameEn": "Business",
+          "displayName": "बिजनेस",
+          "color": "#3e9e3e",
+          "listingUrl": "/business/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icmoneybhaskar15853186191_1585398499.png"
+        },
+        "header": {
+          "title": "इसमें कम ब्याज और आसानी से मिलेगा कर्ज, FD भी नहीं तुड़वानी पड़ेगी; समझें पूरा गणित",
+          "slug": "पैसों की जरूरत पड़ने पर FD पर लें लोन",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/comp-11_1716180592.gif",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "133048072",
+      "type": "story",
+      "metadata": {
+        "sectionId": "1051",
+        "sectionCatListingUrl": "/business/",
+        "sectionCatId": "1051",
+        "sectionCatName": "Business"
+      },
+      "data": {
+        "storyId": 133048072,
+        "shareUri": "https://dainik-b.in/ZjIx4i37JJb",
+        "templateType": "running",
+        "shortUrl": "/business/news/byjus-tlpl-advisory-board-member-mohandas-pai-rajnish-kumar-to-quit-133048072.html",
+        "publishTime": "2024-05-20T09:24:57+05:30",
+        "modifiedTime": "2024-05-20T10:44:54+05:30",
+        "category": {
+          "id": 1051,
+          "nameEn": "Business",
+          "displayName": "बिजनेस",
+          "color": "#3e9e3e",
+          "listingUrl": "/business/",
+          "img": "https://images.bhaskarassets.com/web2images/521/2020/03/28/icmoneybhaskar15853186191_1585398499.png"
+        },
+        "header": {
+          "title": "आपसी सहमति से कंपनी ने लिया फैसला, 30 जून को खत्म हो रहा कांट्रैक्चुअल एग्रीमेंट",
+          "slug": "बायजूस की एडवायजरी काउंसिल छोड़ेंगे रजनीश कुमार और मोहनदास पई",
+          "containsVideo": false,
+          "media": [
+            {
+              "type": "image",
+              "url": "https://images.bhaskarassets.com/web2images/521/2024/05/20/new-project-39_1716175004.jpg",
+              "size": {
+                "w": 730,
+                "h": 548
+              }
+            }
+          ]
+        },
+        "articleLockType": "NONE"
+      }
+    },
+    {
+      "id": "100000",
+      "type": "sectionHeader",
+      "data": {
+        "storyId": 100000,
+        "isShowLocalCatLink": false,
+        "category": {
+          "id": 521,
+          "nameEn": "Other News",
+          "displayName": "अन्य खबरें",
+          "color": "#000000",
+          "img": "https://images.bhaskarassets.com/web2images/cats/ic_other_news2.png"
+        }
+      }
+    }
+  ]
+}
