@@ -5,35 +5,35 @@
       {
         "id": 1,
         "title": "Home",
-        "url": "/",
+        "url": "/RealState-github",
         "subTitle": false
       },
       {
         "id": 2,
         "title": "Our Project",
-        "url": "/our product",
+        "url": "/RealState-github/our-product",
         "subTitle": true,
         "subHeading": "About Our Projects",
         "subMenu": [
           {
             "id": 1,
             "title": "Majestique Residence",
-            "url": "/majestique-residence/"
+            "url": "/majestique-residence"
           },
           {
             "id": 2,
             "title": "Mon Reve",
-            "url": "/Mon Reve/"
+            "url": "/mon-reve"
           },
           {
             "id": 3,
             "title": "Le Solarium",
-            "url": "/Le Solarium/"
+            "url": "/le-solarium"
           },
           {
             "id": 4,
             "title": "Le Presidium",
-            "url": "/Le Presidium/"
+            "url": "/le-presidium"
           }
         ],
         "media": [
@@ -60,23 +60,23 @@
       {
         "id": 3,
         "title": "Why Dubai ?",
-        "url": "/why dubai",
+        "url": "/RealState-github/why-dubai",
         "subTitle": false
       },
       {
         "id": 4,
         "title": "Article",
-        "url": "/article",
+        "url": "/RealState-github/article",
         "subTitle": true,
         "subMenu": [
           {
             "id": "1",
-            "url": "/blogs/",
+            "url": "/blogs",
             "title": "Blogs"
           },
           {
             "id": "2",
-            "url": "/news/",
+            "url": "/news",
             "title": "News"
           }
         ]
@@ -84,7 +84,7 @@
       {
         "id": 5,
         "title": "Offers",
-        "url": "/offers",
+        "url": "/RealState-github/offers",
         "subTitle": false
       }
     ]
