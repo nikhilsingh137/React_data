@@ -5,13 +5,13 @@
       {
         "id": 1,
         "title": "Home",
-        "url": "/RealState-github",
+        "url": "/",
         "subTitle": false
       },
       {
         "id": 2,
         "title": "Our Project",
-        "url": "/RealState-github/our product",
+        "url": "/our product",
         "subTitle": true,
         "subHeading": "About Our Projects",
         "subMenu": [
@@ -60,13 +60,13 @@
       {
         "id": 3,
         "title": "Why Dubai ?",
-        "url": "/RealState-github/why dubai",
+        "url": "/why dubai",
         "subTitle": false
       },
       {
         "id": 4,
         "title": "Article",
-        "url": "/RealState-github/article",
+        "url": "/article",
         "subTitle": true,
         "subMenu": [
           {
