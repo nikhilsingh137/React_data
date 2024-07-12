@@ -1,0 +1,663 @@
+[
+    {
+      "_id": "668b0c2f1af460c68d9288fe",
+      "id": 1,
+      "title": "ABOUT US",
+      "url": "/about-us/",
+      "img": "https://www.credouae.com/wp-content/uploads/2022/07/diverse-businesspeople-having-meeting-1400x623.jpg",
+      "image": [
+        "https://www.credouae.com/wp-content/uploads/2019/07/m1-2-3.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-property-developer-in-dubai-mr2main.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-real-estate-property-developer-in-dubai-mrmain.jpg"
+      ],
+      "heading": "Credo Investments FZE",
+      "paragraph": [
+        {
+          "id": 1,
+          "content": "As one of the Dubai’s leading luxury and premium developers, Credo Investments FZE develops innovative and creative living homes for the luxury lifestyle."
+        },
+        {
+          "id": 2,
+          "content": "We are providing outstanding commercial and residential developments in United Arab Emirates since 2005."
+        },
+        {
+          "id": 3,
+          "content": "With global interest spanning from transport & IT to trading & real estate, Credo’s professional team has forged a reputation for consistently delivering prestigious real estate developments in Dubai, UAE."
+        },
+        {
+          "id": 4,
+          "content": "Renowned for its business acumen, credo has formed alliances with industry leaders in designing, architecture and construction to develop landmark projects such as The Prism at Business Bay, Le Solarium & Le Presidium at Dubai Silicon Oasis and Mon Reve at Downtown Dubai, in the heart of commercial & business sector, the Burj Khalifa District."
+        }
+      ],
+      "project": "About Our Projects",
+      "data": [
+        {
+          "id": 1,
+          "url": "/majestique-residence/",
+          "title": "Majestique Residence"
+        },
+        {
+          "id": 2,
+          "url": "/mon-reve/",
+          "title": "Mon Reve"
+        },
+        {
+          "id": 3,
+          "url": "/le-solarium/",
+          "title": "Le Solarium"
+        },
+        {
+          "id": 4,
+          "url": "/le-presidium/",
+          "title": "Le Presidium"
+        },
+        {
+          "id": 5,
+          "url": "/the-prism/",
+          "title": "le presidium"
+        }
+      ],
+      "detail": [
+        {
+          "id": "1",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "2",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/credo-customer-care.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "3",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/lara-far-PKTSHQMm-5c-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        }
+      ],
+      "client": "WHAT OUR CLIENT SAY ABOUT US",
+      "about": [
+        {
+          "id": 1,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 2,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/beautiful-woman-wearing-hijab-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 3,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 4,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/beautiful-woman-wearing-hijab-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        }
+      ]
+    },
+    {
+      "_id": "668bccab407fca9f6e9e3b48",
+      "id": 2,
+      "title": "Majestique-Residence",
+      "url": "/majestique-residence/",
+      "img": "https://www.credouae.com/wp-content/uploads/2022/07/diverse-businesspeople-having-meeting-1400x623.jpg",
+      "image": [
+        "https://www.credouae.com/wp-content/uploads/2019/07/m1-2-3.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-property-developer-in-dubai-mr2main.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-real-estate-property-developer-in-dubai-mrmain.jpg"
+      ],
+      "heading": "Credo Investments FZE",
+      "video": "https://www.youtube.com/embed/Y3_p-DG3xAs?html5=1&autoplay=1&controls=0&rel=0&modestbranding=1&playsinline=1&showinfo=0&fs=0&loop=1&el=0&playlist=Y3_p-DG3xAs&enablejsapi=1&origin=https%3A%2F%2Fwww.credouae.com&widgetid=1",
+      "paragraph": [
+        {
+          "id": 1,
+          "content": "As one of the Dubai’s leading luxury and premium developers, Credo Investments FZE develops innovative and creative living homes for the luxury lifestyle."
+        },
+        {
+          "id": 2,
+          "content": "We are providing outstanding commercial and residential developments in United Arab Emirates since 2005."
+        },
+        {
+          "id": 3,
+          "content": "With global interest spanning from transport & IT to trading & real estate, Credo’s professional team has forged a reputation for consistently delivering prestigious real estate developments in Dubai, UAE."
+        },
+        {
+          "id": 4,
+          "content": "Renowned for its business acumen, credo has formed alliances with industry leaders in designing, architecture and construction to develop landmark projects such as The Prism at Business Bay, Le Solarium & Le Presidium at Dubai Silicon Oasis and Mon Reve at Downtown Dubai, in the heart of commercial & business sector, the Burj Khalifa District."
+        }
+      ],
+      "project": "About Our Projects",
+      "data": [
+        {
+          "id": 1,
+          "url": "/majestique-residence/",
+          "title": "Majestique Residence"
+        },
+        {
+          "id": 2,
+          "url": "/mon reve/",
+          "title": "Mon Reve"
+        },
+        {
+          "id": 3,
+          "url": "/le solarium/",
+          "title": "Le Solarium"
+        },
+        {
+          "id": 4,
+          "url": "/le presidium/",
+          "title": "Le Presidium"
+        },
+        {
+          "id": 5,
+          "url": "/the prism/",
+          "title": "le presidium"
+        }
+      ],
+      "detail": [
+        {
+          "id": "1",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "2",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/credo-customer-care.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "3",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/lara-far-PKTSHQMm-5c-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        }
+      ],
+      "client": "WHAT OUR CLIENT SAY ABOUT US",
+      "about": [
+        {
+          "id": 1,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 2,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 3,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 4,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        }
+      ]
+    },
+    {
+      "_id": "668bce42407fca9f6e9e3b4a",
+      "id": 3,
+      "title": "Mon Reve",
+      "url": "/mon-reve/",
+      "img": "https://www.credouae.com/wp-content/uploads/2022/07/diverse-businesspeople-having-meeting-1400x623.jpg",
+      "image": [
+        "https://www.credouae.com/wp-content/uploads/2019/07/m1-2-3.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-property-developer-in-dubai-mr2main.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-real-estate-property-developer-in-dubai-mrmain.jpg"
+      ],
+      "heading": "Credo Investments FZE",
+      "paragraph": [
+        {
+          "id": 1,
+          "content": "As one of the Dubai’s leading luxury and premium developers, Credo Investments FZE develops innovative and creative living homes for the luxury lifestyle."
+        },
+        {
+          "id": 2,
+          "content": "We are providing outstanding commercial and residential developments in United Arab Emirates since 2005."
+        },
+        {
+          "id": 3,
+          "content": "With global interest spanning from transport & IT to trading & real estate, Credo’s professional team has forged a reputation for consistently delivering prestigious real estate developments in Dubai, UAE."
+        },
+        {
+          "id": 4,
+          "content": "Renowned for its business acumen, credo has formed alliances with industry leaders in designing, architecture and construction to develop landmark projects such as The Prism at Business Bay, Le Solarium & Le Presidium at Dubai Silicon Oasis and Mon Reve at Downtown Dubai, in the heart of commercial & business sector, the Burj Khalifa District."
+        }
+      ],
+      "project": "About Our Projects",
+      "data": [
+        {
+          "id": 1,
+          "url": "/majestique-residence/",
+          "title": "Majestique Residence"
+        },
+        {
+          "id": 2,
+          "url": "/mon reve/",
+          "title": "Mon Reve"
+        },
+        {
+          "id": 3,
+          "url": "/le solarium/",
+          "title": "Le Solarium"
+        },
+        {
+          "id": 4,
+          "url": "/le presidium/",
+          "title": "Le Presidium"
+        },
+        {
+          "id": 5,
+          "url": "/the prism/",
+          "title": "le presidium"
+        }
+      ],
+      "detail": [
+        {
+          "id": "1",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "2",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/credo-customer-care.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "3",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/lara-far-PKTSHQMm-5c-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        }
+      ],
+      "client": "WHAT OUR CLIENT SAY ABOUT US",
+      "about": [
+        {
+          "id": 1,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 2,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/beautiful-woman-wearing-hijab-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 3,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 4,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/beautiful-woman-wearing-hijab-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        }
+      ]
+    },
+    {
+      "_id": "668bce91407fca9f6e9e3b4d",
+      "id": 3,
+      "title": "Le Solarium",
+      "url": "/le-solarium/",
+      "img": "https://www.credouae.com/wp-content/uploads/2022/07/diverse-businesspeople-having-meeting-1400x623.jpg",
+      "image": [
+        "https://www.credouae.com/wp-content/uploads/2019/07/m1-2-3.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-property-developer-in-dubai-mr2main.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-real-estate-property-developer-in-dubai-mrmain.jpg"
+      ],
+      "heading": "Credo Investments FZE",
+      "paragraph": [
+        {
+          "id": 1,
+          "content": "As one of the Dubai’s leading luxury and premium developers, Credo Investments FZE develops innovative and creative living homes for the luxury lifestyle."
+        },
+        {
+          "id": 2,
+          "content": "We are providing outstanding commercial and residential developments in United Arab Emirates since 2005."
+        },
+        {
+          "id": 3,
+          "content": "With global interest spanning from transport & IT to trading & real estate, Credo’s professional team has forged a reputation for consistently delivering prestigious real estate developments in Dubai, UAE."
+        },
+        {
+          "id": 4,
+          "content": "Renowned for its business acumen, credo has formed alliances with industry leaders in designing, architecture and construction to develop landmark projects such as The Prism at Business Bay, Le Solarium & Le Presidium at Dubai Silicon Oasis and Mon Reve at Downtown Dubai, in the heart of commercial & business sector, the Burj Khalifa District."
+        }
+      ],
+      "project": "About Our Projects",
+      "data": [
+        {
+          "id": 1,
+          "url": "/majestique-residence/",
+          "title": "Majestique Residence"
+        },
+        {
+          "id": 2,
+          "url": "/mon-reve/",
+          "title": "Mon Reve"
+        },
+        {
+          "id": 3,
+          "url": "/le-solarium/",
+          "title": "Le Solarium"
+        },
+        {
+          "id": 4,
+          "url": "/le-presidium/",
+          "title": "Le Presidium"
+        },
+        {
+          "id": 5,
+          "url": "/the-prism/",
+          "title": "le presidium"
+        }
+      ],
+      "detail": [
+        {
+          "id": "1",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "2",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/credo-customer-care.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "3",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/lara-far-PKTSHQMm-5c-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        }
+      ],
+      "client": "WHAT OUR CLIENT SAY ABOUT US",
+      "about": [
+        {
+          "id": 1,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 2,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 3,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 4,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        }
+      ]
+    },
+    {
+      "_id": "668bceda407fca9f6e9e3b4f",
+      "id": 4,
+      "title": "Le Presidium",
+      "url": "/le-presidium/",
+      "img": "https://www.credouae.com/wp-content/uploads/2022/07/diverse-businesspeople-having-meeting-1400x623.jpg",
+      "image": [
+        "https://www.credouae.com/wp-content/uploads/2019/07/m1-2-3.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-property-developer-in-dubai-mr2main.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-real-estate-property-developer-in-dubai-mrmain.jpg"
+      ],
+      "heading": "Credo Investments FZE",
+      "paragraph": [
+        {
+          "id": 1,
+          "content": "As one of the Dubai’s leading luxury and premium developers, Credo Investments FZE develops innovative and creative living homes for the luxury lifestyle."
+        },
+        {
+          "id": 2,
+          "content": "We are providing outstanding commercial and residential developments in United Arab Emirates since 2005."
+        },
+        {
+          "id": 3,
+          "content": "With global interest spanning from transport & IT to trading & real estate, Credo’s professional team has forged a reputation for consistently delivering prestigious real estate developments in Dubai, UAE."
+        },
+        {
+          "id": 4,
+          "content": "Renowned for its business acumen, credo has formed alliances with industry leaders in designing, architecture and construction to develop landmark projects such as The Prism at Business Bay, Le Solarium & Le Presidium at Dubai Silicon Oasis and Mon Reve at Downtown Dubai, in the heart of commercial & business sector, the Burj Khalifa District."
+        }
+      ],
+      "project": "About Our Projects",
+      "data": [
+        {
+          "id": 1,
+          "url": "/majestique-residence/",
+          "title": "Majestique Residence"
+        },
+        {
+          "id": 2,
+          "url": "/mon-reve/",
+          "title": "Mon Reve"
+        },
+        {
+          "id": 3,
+          "url": "/le-solarium/",
+          "title": "Le Solarium"
+        },
+        {
+          "id": 4,
+          "url": "/le-presidium/",
+          "title": "Le Presidium"
+        },
+        {
+          "id": 5,
+          "url": "/the-prism/",
+          "title": "le presidium"
+        }
+      ],
+      "detail": [
+        {
+          "id": "1",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "2",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/credo-customer-care.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "3",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/lara-far-PKTSHQMm-5c-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        }
+      ],
+      "client": "WHAT OUR CLIENT SAY ABOUT US",
+      "about": [
+        {
+          "id": 1,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 2,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 3,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 4,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        }
+      ]
+    },
+    {
+      "_id": "668bcf24407fca9f6e9e3b51",
+      "id": 5,
+      "title": "The Prism",
+      "url": "/the-prism/",
+      "img": "https://www.credouae.com/wp-content/uploads/2022/07/diverse-businesspeople-having-meeting-1400x623.jpg",
+      "image": [
+        "https://www.credouae.com/wp-content/uploads/2019/07/m1-2-3.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-property-developer-in-dubai-mr2main.jpg",
+        "https://www.credouae.com/wp-content/uploads/2022/07/best-real-estate-property-developer-in-dubai-mrmain.jpg"
+      ],
+      "heading": "Credo Investments FZE",
+      "paragraph": [
+        {
+          "id": 1,
+          "content": "As one of the Dubai’s leading luxury and premium developers, Credo Investments FZE develops innovative and creative living homes for the luxury lifestyle."
+        },
+        {
+          "id": 2,
+          "content": "We are providing outstanding commercial and residential developments in United Arab Emirates since 2005."
+        },
+        {
+          "id": 3,
+          "content": "With global interest spanning from transport & IT to trading & real estate, Credo’s professional team has forged a reputation for consistently delivering prestigious real estate developments in Dubai, UAE."
+        },
+        {
+          "id": 4,
+          "content": "Renowned for its business acumen, credo has formed alliances with industry leaders in designing, architecture and construction to develop landmark projects such as The Prism at Business Bay, Le Solarium & Le Presidium at Dubai Silicon Oasis and Mon Reve at Downtown Dubai, in the heart of commercial & business sector, the Burj Khalifa District."
+        }
+      ],
+      "project": "About Our Projects",
+      "data": [
+        {
+          "id": 1,
+          "url": "/majestique-residence/",
+          "title": "Majestique Residence"
+        },
+        {
+          "id": 2,
+          "url": "/mon-reve/",
+          "title": "Mon Reve"
+        },
+        {
+          "id": 3,
+          "url": "/le-solarium/",
+          "title": "Le Solarium"
+        },
+        {
+          "id": 4,
+          "url": "/le-presidium/",
+          "title": "Le Presidium"
+        },
+        {
+          "id": 5,
+          "url": "/the-prism/",
+          "title": "le presidium"
+        }
+      ],
+      "detail": [
+        {
+          "id": "1",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "2",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/credo-customer-care.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        },
+        {
+          "id": "3",
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/lara-far-PKTSHQMm-5c-unsplash.jpg",
+          "paragraph": "Our Sales team are highly experienced and professional.",
+          "title": "Professional Sales Team"
+        }
+      ],
+      "client": "WHAT OUR CLIENT SAY ABOUT US",
+      "about": [
+        {
+          "id": 1,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 2,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 3,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        },
+        {
+          "id": 4,
+          "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+          "paragraph": "Investing in property with Credo is one of the best choices I’ve made. I am extremely thankful to the Credo staff for providing me with the right option.",
+          "name": "James white",
+          "company": "United State of America"
+        }
+      ]
+    }
+  ]
