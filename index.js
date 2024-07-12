@@ -22,6 +22,9 @@ const ApiData3 = JSON.parse(data3);
 const data4 = fs.readFileSync(`${__dirname}/data/tab.json`, "utf-8");
 const ApiData4 = JSON.parse(data4);
 
+const data5 = fs.readFileSync(`${__dirname}/data/ReactHeader.json`, "utf-8");
+const ApiData5 = JSON.parse(data5);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -38,6 +41,10 @@ app.get("/post", (req, res) => {
 
 app.get("/data", (req, res) => {
   res.send(ApiData4);
+});
+
+app.get("/header", (req, res) => {
+  res.send(ApiData5);
 });
 
 app.listen(port, () => {

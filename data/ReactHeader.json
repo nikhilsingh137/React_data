@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "6686fc3f7446f71aaf874a66",
+    "Header": [
+      {
+        "id": 1,
+        "title": "Home",
+        "url": "/",
+        "subTitle": false
+      },
+      {
+        "id": 2,
+        "title": "Our Project",
+        "url": "/our product",
+        "subTitle": true,
+        "subHeading": "About Our Projects",
+        "subMenu": [
+          {
+            "id": 1,
+            "title": "Majestique Residence",
+            "url": "/majestique-residence/"
+          },
+          {
+            "id": 2,
+            "title": "Mon Reve",
+            "url": "/Mon Reve/"
+          },
+          {
+            "id": 3,
+            "title": "Le Solarium",
+            "url": "/Le Solarium/"
+          },
+          {
+            "id": 4,
+            "title": "Le Presidium",
+            "url": "/Le Presidium/"
+          }
+        ],
+        "media": [
+          {
+            "id": 1,
+            "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+            "title": "Professional Sales Team",
+            "paragraph": "Our Sales team are highly experienced and professional."
+          },
+          {
+            "id": 2,
+            "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+            "title": "Professional Sales Team",
+            "paragraph": "Our Sales team are highly experienced and professional."
+          },
+          {
+            "id": 3,
+            "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+            "title": "Professional Sales Team",
+            "paragraph": "Our Sales team are highly experienced and professional."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Why Dubai ?",
+        "url": "/why dubai",
+        "subTitle": false
+      },
+      {
+        "id": 4,
+        "title": "Article",
+        "url": "/article",
+        "subTitle": true,
+        "subMenu": [
+          {
+            "id": "1",
+            "url": "/blogs/",
+            "title": "Blogs"
+          },
+          {
+            "id": "2",
+            "url": "/news/",
+            "title": "News"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Offers",
+        "url": "/offers",
+        "subTitle": false
+      }
+    ]
+  }
+]
