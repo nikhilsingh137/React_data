@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "668d1c60c3341e3fc3550ca2",
+    "id": 1,
+    "heading": "CONNECT WITH US",
+    "title": "CREDO INVESTMENTS FZE",
+    "data": [
+      {
+        "id": 1,
+        "address": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E"
+      },
+      {
+        "id": 2,
+        "address": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E"
+      },
+      {
+        "id": 3,
+        "address": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E"
+      }
+    ]
+  },
+  {
+    "_id": "668d1cebc3341e3fc3550ca5",
+    "id": 2,
+    "heading": "LATEST NEWS",
+    "data": [
+      {
+        "id": 1,
+        "address": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E",
+        "date": "03 Apr"
+      },
+      {
+        "id": 2,
+        "address": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E",
+        "date": "03 Apr"
+      },
+      {
+        "id": 3,
+        "address": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E",
+        "date": "03 Apr"
+      }
+    ]
+  },
+  {
+    "_id": "668d1d20c3341e3fc3550ca7",
+    "id": 3,
+    "heading": "SIGNUP FOR NEWSLETTER",
+    "data": [
+      {
+        "id": 1,
+        "address": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E",
+        "date": "03 Apr"
+      }
+    ]
+  }
+]

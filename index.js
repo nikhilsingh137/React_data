@@ -25,6 +25,17 @@ const ApiData4 = JSON.parse(data4);
 const data5 = fs.readFileSync(`${__dirname}/data/ReactHeader.json`, "utf-8");
 const ApiData5 = JSON.parse(data5);
 
+const data6 = fs.readFileSync(`${__dirname}/data/Imagebox.json`, "utf-8");
+const ApiData6 = JSON.parse(data6);
+
+const data7 = fs.readFileSync(`${__dirname}/data/banner.json`, "utf-8");
+const ApiData7 = JSON.parse(data7);
+
+const data8 = fs.readFileSync(`${__dirname}/data/feature.json`, "utf-8");
+const ApiData8 = JSON.parse(data8);
+const data9 = fs.readFileSync(`${__dirname}/data/footer.json`, "utf-8");
+const ApiData9 = JSON.parse(data9);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -45,6 +56,20 @@ app.get("/data", (req, res) => {
 
 app.get("/header", (req, res) => {
   res.send(ApiData5);
+});
+
+app.get("/image", (req, res) => {
+  res.send(ApiData6);
+});
+
+app.get("/banner", (req, res) => {
+  res.send(ApiData7);
+});
+app.get("/feature", (req, res) => {
+  res.send(ApiData8);
+});
+app.get("/footer", (req, res) => {
+  res.send(ApiData9);
 });
 
 app.listen(port, () => {
