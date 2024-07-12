@@ -36,6 +36,9 @@ const ApiData8 = JSON.parse(data8);
 const data9 = fs.readFileSync(`${__dirname}/data/footer.json`, "utf-8");
 const ApiData9 = JSON.parse(data9);
 
+const data10 = fs.readFileSync(`${__dirname}/data/form.json`, "utf-8");
+const ApiData10 = JSON.parse(data10);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -70,6 +73,9 @@ app.get("/feature", (req, res) => {
 });
 app.get("/footer", (req, res) => {
   res.send(ApiData9);
+});
+app.get("/form", (req, res) => {
+  res.send(ApiData10);
 });
 
 app.listen(port, () => {
