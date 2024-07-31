@@ -1,7 +1,7 @@
 const express = require("express");
 const fs = require("fs");
 const app = express();
-const port = 9000;
+const port = 8000;
 const cors = require("cors");
 
 app.use(express.json());
@@ -41,6 +41,9 @@ const ApiData10 = JSON.parse(data10);
 
 const data11 = fs.readFileSync(`${__dirname}/data/aboutData.json`, "utf-8");
 const ApiData11 = JSON.parse(data11);
+
+const data12 = fs.readFileSync(`${__dirname}/data/cart.json`, "utf-8");
+const ApiData12 = JSON.parse(data12);
 
 app.get("/", (req, res) => {
   res.send(ApiData);
@@ -82,6 +85,9 @@ app.get("/form", (req, res) => {
 });
 
 app.get("/about", (req, res) => {
+  res.send(ApiData10);
+});
+app.get("/cart", (req, res) => {
   res.send(ApiData10);
 });
 

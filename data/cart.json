@@ -1,0 +1,100 @@
+{
+  "cart": [
+    {
+      "id": "1",
+      "img": "https://add-to-cart-javascript.vercel.app/img/men-1.jpg",
+      "title": "Oxford Shirts",
+      "price": "₹ 1200 ",
+      "star": "(4.9)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "2",
+      "img": "https://add-to-cart-javascript.vercel.app/img/women-1.jpg",
+      "title": "Tunic ",
+      "price": "₹ 458 ",
+      "star": "(4.4)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "3",
+      "img": "https://add-to-cart-javascript.vercel.app/img/watch-1.jpg",
+      "title": "Huawei Watch Buds",
+      "price": "₹ 4058 ",
+      "star": "(4.4)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "4",
+      "img": "https://add-to-cart-javascript.vercel.app/img/men-2.jpg",
+      "title": "Short-Sleeve Shirt",
+      "price": "₹ 800 ",
+      "star": "(4.9)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "5",
+      "img": "https://add-to-cart-javascript.vercel.app/img/women-2.jpg",
+      "title": "Culotte dress",
+      "price": "₹ 2459 ",
+      "star": "(4.4)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "6",
+      "img": "https://add-to-cart-javascript.vercel.app/img/watch-2.jpg",
+      "title": "Fire Boltt Dazzle ",
+      "price": "₹ 1999 ",
+      "star": "(4.4)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "7",
+      "img": "https://add-to-cart-javascript.vercel.app/img/men-3.jpg",
+      "title": "Cuban Collar Shirt ",
+      "price": "₹ 499 ",
+      "star": "(4.9)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "8",
+      "img": "https://add-to-cart-javascript.vercel.app/img/women-3.jpg",
+      "title": "Babydoll ",
+      "price": "₹ 1159 ",
+      "star": "(4.0)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "9",
+      "img": "https://add-to-cart-javascript.vercel.app/img/watch-3.jpg",
+      "title": "Google Pixel",
+      "price": "₹ 2059 ",
+      "star": "(4.4)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "10",
+      "img": "https://add-to-cart-javascript.vercel.app/img/men-4.jpg",
+      "title": "T-shirt",
+      "price": "₹ 700 ",
+      "star": "(3.9)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "11",
+      "img": "https://add-to-cart-javascript.vercel.app/img/women-4.jpg",
+      "title": "Wrap around",
+      "price": "₹ 4059 ",
+      "star": "(4.4)",
+      "button": "Add To Cart"
+    },
+    {
+      "id": "12",
+      "img": "https://add-to-cart-javascript.vercel.app/img/watch-4.jpg",
+      "title": "titan Power",
+      "price": "₹ 459 ",
+      "star": "(4.4)",
+      "button": "Add To Cart"
+    }
+  ]
+}
