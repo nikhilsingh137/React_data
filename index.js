@@ -88,10 +88,14 @@ app.get("/form", (req, res) => {
 });
 
 app.get("/about", (req, res) => {
-  res.send(ApiData10);
+  res.send(ApiData11);
 });
 app.get("/cart", (req, res) => {
-  res.send(ApiData10);
+  res.send(ApiData12);
+});
+
+app.get("/marketTab", (req, res) => {
+  res.send(ApiData13);
 });
 
 app.listen(port, () => {
