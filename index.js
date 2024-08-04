@@ -45,6 +45,9 @@ const ApiData11 = JSON.parse(data11);
 const data12 = fs.readFileSync(`${__dirname}/data/cart.json`, "utf-8");
 const ApiData12 = JSON.parse(data12);
 
+const data13 = fs.readFileSync(`${__dirname}/data/marketTab.json`, "utf-8");
+const ApiData13 = JSON.parse(data13);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
