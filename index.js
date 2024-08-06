@@ -48,6 +48,9 @@ const ApiData12 = JSON.parse(data12);
 const data13 = fs.readFileSync(`${__dirname}/data/marketTab.json`, "utf-8");
 const ApiData13 = JSON.parse(data13);
 
+const Api = fs.readFileSync(`${__dirname}/APi/header.json`, "utf-8");
+const ApiData14 = JSON.parse(Api);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -96,6 +99,10 @@ app.get("/cart", (req, res) => {
 
 app.get("/marketTab", (req, res) => {
   res.send(ApiData13);
+});
+
+app.get("/apiHeader", (req, res) => {
+  res.send(ApiData14);
 });
 
 app.listen(port, () => {
