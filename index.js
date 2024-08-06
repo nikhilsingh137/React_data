@@ -48,7 +48,7 @@ const ApiData12 = JSON.parse(data12);
 const data13 = fs.readFileSync(`${__dirname}/data/marketTab.json`, "utf-8");
 const ApiData13 = JSON.parse(data13);
 
-const Api = fs.readFileSync(`${__dirname}/APi/header.json`, "utf-8");
+const Api = fs.readFileSync(`${__dirname}/Api/header.json`, "utf-8");
 const ApiData14 = JSON.parse(Api);
 
 app.get("/", (req, res) => {
