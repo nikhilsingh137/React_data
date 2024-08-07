@@ -54,6 +54,9 @@ const ApiData14 = JSON.parse(Api);
 const ApiStack = fs.readFileSync(`${__dirname}/Api/Stack.json`, "utf-8");
 const ApiData15 = JSON.parse(ApiStack);
 
+const ApiImage = fs.readFileSync(`${__dirname}/Api/Image.json`, "utf-8");
+const ApiData16 = JSON.parse(ApiImage);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -110,6 +113,10 @@ app.get("/apiHeader", (req, res) => {
 
 app.get("/stack", (req, res) => {
   res.send(ApiData15);
+});
+
+app.get("/image", (req, res) => {
+  res.send(ApiData16);
 });
 
 app.listen(port, () => {
