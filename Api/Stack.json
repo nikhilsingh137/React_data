@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Full-stack",
+      "slug": "open-source",
+      "heading": "web3 development platform",
+      "paragraph": "Frontend, backend, and onchain tools to build complete web3 apps — on every EVM chain.",
+      "button": "Get Started",
+      "url": "/login-in",
+      "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-homepage.126d2b29.png&w=1920&q=75"
+    }
+  ]
+}
