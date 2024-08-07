@@ -3,7 +3,7 @@
     {
       "id": "1",
       "titel": "Products",
-      "url": "/products",
+      "url": "/",
       "subTitle": true,
       "subMenu": [
         {
@@ -32,7 +32,7 @@
     {
       "id": "2",
       "titel": "Solution",
-      "url": "/solution",
+      "url": "/",
       "subTitle": true,
       "subMenu": [
         {
@@ -90,7 +90,7 @@
     {
       "id": "4",
       "titel": "Developer",
-      "url": "/developer",
+      "url": "/",
       "subTitle": true,
       "subMenu": [
         {
@@ -119,7 +119,7 @@
     {
       "id": "5",
       "titel": "Company",
-      "url": "/company",
+      "url": "/",
       "subTitle": true,
       "subMenu": [
         {
