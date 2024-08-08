@@ -1,0 +1,12 @@
+{
+  "client": [
+    {
+      "id": "1",
+      "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
+      "title": "Client SDKs to connect users to web3",
+      "paragraph": "Onboard every user, connect to any wallet, and build apps that anyone can use — with in-app wallets, account abstraction, and fiat & crypto payments.",
+      "button": "Git Started",
+      "image": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-hero.2f921f31.png&w=1920&q=75"
+    }
+  ]
+}
