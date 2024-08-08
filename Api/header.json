@@ -62,30 +62,7 @@
       "id": "3",
       "titel": "Pricing",
       "url": "/pricing",
-      "subTitle": true,
-      "subMenu": [
-        {
-          "id": "1",
-          "title": "Connect",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/connect"
-        },
-        {
-          "id": "2",
-          "title": "Contacts",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/contacts"
-        },
-        {
-          "id": "3",
-          "title": "Engine",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/engine"
-        }
-      ]
+      "subTitle": false
     },
     {
       "id": "4",
