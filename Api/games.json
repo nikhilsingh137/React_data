@@ -1,0 +1,32 @@
+{
+  "game": [
+    {
+      "id": "1",
+      "title": "Trusted by the best",
+      "paragraph": "Powering web3 apps across verticals — from onchain games to creator platforms.",
+      "data": [
+        {
+          "id": "1",
+          "title": "Pixels",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpixels.8bd86469.png&w=1200&q=75",
+          "paragraph": "Building a web3 game with a thriving ecosystem — with VIP memberships, in-game tokens, and digital assets that users own, on the blockchain.",
+          "url": "/case-studies/pixels-builds-an-onchain-ecosystem-for-its-web3-game/"
+        },
+        {
+          "id": "2",
+          "title": "Coinbase",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoinbase.cb85575c.png&w=1200&q=75",
+          "paragraph": "Bringing onchain experiences to the real world — with seamless NFT creation, delivery, & transaction management via the Coinbase Wallet app.",
+          "url": "/case-studies/coinbase-brings-onchain-experiences-to-life/"
+        },
+        {
+          "id": "3",
+          "title": "Mirror",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmirror.c778cda0.png&w=1200&q=75",
+          "paragraph": "Empowering creators to build engaged audiences with 'Subscribe to Mint' NFTs — rewarding loyal fans for subscribing to their publication.",
+          "url": "/case-studies/mirror-creators-build-loyal-audiences-with-subscriber-nfts/"
+        }
+      ]
+    }
+  ]
+}
