@@ -10,5 +10,17 @@
       "url": "/connect",
       "image": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-hero.2f921f31.png&w=1920&q=75"
     }
+  ],
+  "engine": [
+    {
+      "id": "1",
+      "heading": "Engine",
+      "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fengine-icon.181ddba6.png&w=256&q=75",
+      "title": "Dedicated APIs for web3 apps & games",
+      "paragraph": "Scalable smart contract APIs backed by secure wallets, with automatic nonce queuing & gas-optimized retries.",
+      "button": "Git Started",
+      "url": "/connect",
+      "image": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fengine-hero.b3dc769e.png&w=1920&q=75"
+    }
   ]
 }
