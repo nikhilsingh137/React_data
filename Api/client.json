@@ -22,5 +22,17 @@
       "url": "/connect",
       "image": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fengine-hero.b3dc769e.png&w=1920&q=75"
     }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "heading": "Contacts",
+      "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontracts-icon.95ff8c1b.png&w=256&q=75",
+      "title": "End-to-end tools for smart contracts",
+      "paragraph": "Trusted and modular smart contracts that can be deployed securely on any EVM chain.",
+      "button": "Git Started",
+      "url": "/connect",
+      "image": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontracts-hero.2eebd675.png&w=1920&q=75"
+    }
   ]
 }
