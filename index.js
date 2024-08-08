@@ -60,6 +60,9 @@ const ApiData16 = JSON.parse(ApiImage);
 const ApiClient = fs.readFileSync(`${__dirname}/Api/client.json`, "utf-8");
 const ApiData17 = JSON.parse(ApiClient);
 
+const ApiGame = fs.readFileSync(`${__dirname}/Api/games.json`, "utf-8");
+const ApiData18 = JSON.parse(ApiGame);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -124,6 +127,10 @@ app.get("/image", (req, res) => {
 
 app.get("/client", (req, res) => {
   res.send(ApiData17);
+});
+
+app.get("/game", (req, res) => {
+  res.send(ApiData18);
 });
 
 app.listen(port, () => {
