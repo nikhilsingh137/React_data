@@ -63,6 +63,9 @@ const ApiData17 = JSON.parse(ApiClient);
 const ApiGame = fs.readFileSync(`${__dirname}/Api/games.json`, "utf-8");
 const ApiData18 = JSON.parse(ApiGame);
 
+const ApiPricing = fs.readFileSync(`${__dirname}/Api/pricing.json`, "utf-8");
+const ApiData19 = JSON.parse(ApiPricing);
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });
@@ -131,6 +134,10 @@ app.get("/client", (req, res) => {
 
 app.get("/game", (req, res) => {
   res.send(ApiData18);
+});
+
+app.get("/pricing", (req, res) => {
+  res.send(ApiData19);
 });
 
 app.listen(port, () => {

@@ -1,0 +1,61 @@
+{
+  "pricing": [
+    {
+      "id": "1",
+      "title": "Simple, transparent & flexible",
+      "slug": "pricing for every team.",
+      "detail": "Learn more about",
+      "plan": "pricing plans.",
+      "item": [
+        {
+          "id": "1",
+          "title": "Starter",
+          "paragraph": "Ideal for hobbyists who require basic features.",
+          "price": "$0/ month",
+          "button": "Get started for free",
+          "url": "/dashboard/settings/billing",
+          "item": [
+            "1,000 monthly active wallets",
+            "Web, Mobile & Gaming SDKs",
+            "Contract & Wallet APIs",
+            "Audited smart contracts",
+            "Community Support",
+            "Blockchain infra (RPC, IPFS)"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Growth",
+          "paragraph": "Ideal for production-grade applications.",
+          "price": "$99 $0/ month",
+          "button": "Claim your 1-month free",
+          "url": "/dashboard/settings/billing",
+          "item": [
+            "1,000 monthly active wallets",
+            "Web, Mobile & Gaming SDKs",
+            "Contract & Wallet APIs",
+            "Audited smart contracts",
+            "Community Support",
+            "Blockchain infra (RPC, IPFS)"
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Pro",
+          "paragraph": "Ideal for teams that require more customization, SLAs, and support.",
+          "price": "Custom",
+          "button": "Contact us",
+          "url": "/dashboard/settings/billing",
+          "item": [
+            "1,000 monthly active wallets",
+            "Web, Mobile & Gaming SDKs",
+            "Contract & Wallet APIs",
+            "Audited smart contracts",
+            "Community Support",
+            "Blockchain infra (RPC, IPFS)"
+          ]
+        }
+      ]
+    }
+  ]
+}
