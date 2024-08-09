@@ -10,5 +10,15 @@
       "url": "/login-in",
       "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-homepage.126d2b29.png&w=1920&q=75"
     }
+  ],
+  "build": [
+    {
+      "id": "1",
+      "title": "Build on 1,000+ EVM chains",
+      "paragraph": "Our tools work with any contract deployed on any EVM-compatible chain.",
+      "button": "See the chainlist",
+      "img": "https://thirdweb.com/assets/landingpage/any-evm.png",
+      "url": "/chainlist"
+    }
   ]
 }
