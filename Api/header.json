@@ -37,24 +37,24 @@
       "subMenu": [
         {
           "id": "1",
-          "title": "Connect",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/connect"
+          "title": "Gaming",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgaming.44556489.svg&w=32&q=75",
+          "paragraph": "Integrate web3 into games",
+          "url": "/gaming"
         },
         {
           "id": "2",
-          "title": "Contacts",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/contacts"
+          "title": "Chains",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchains.33bab582.svg&w=32&q=75",
+          "paragraph": "All-in-one dev tools for your chain",
+          "url": "/chains"
         },
         {
           "id": "3",
-          "title": "Engine",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/engine"
+          "title": "Minting",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fminting.f39655a2.svg&w=32&q=75",
+          "paragraph": "Build and mint NFTs at scale easily",
+          "url": "/minting"
         }
       ]
     },
@@ -72,24 +72,111 @@
       "subMenu": [
         {
           "id": "1",
-          "title": "Connect",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/connect"
+          "title": "Resources",
+          "paragraph": "Get started and learn how to build with thirdweb platform",
+          "url": "/resources",
+          "data": [
+            {
+              "id": "1",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdocs.2ab9e4f8.svg&w=32&q=75",
+              "title": "Docs",
+              "paragraph": "Complete thirdweb documentation",
+              "url": "/docs"
+            },
+            {
+              "id": "2",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftemplates.5244c59f.svg&w=32&q=75",
+              "title": "Templates",
+              "paragraph": "Ready-to-ship repositories",
+              "url": "/templates"
+            },
+            {
+              "id": "3",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fguides.4da5825e.svg&w=32&q=75",
+              "title": "Guides",
+              "paragraph": "Learn how to build with thirdweb",
+              "url": "/guides"
+            },
+            {
+              "id": "4",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopensource.4949f6cc.svg&w=32&q=75",
+              "title": "Open Source",
+              "paragraph": "Learn how to contribute to thirdweb",
+              "url": "/open-source"
+            }
+          ]
         },
         {
           "id": "2",
-          "title": "Contacts",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/contacts"
+          "title": "Dev Tools",
+          "paragraph": "Interfaces for deploying and interacting with contracts",
+          "url": "/dev-tools",
+          "data": [
+            {
+              "id": "1",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdocs.2ab9e4f8.svg&w=32&q=75",
+              "title": "Docs",
+              "paragraph": "Complete thirdweb documentation",
+              "url": "/docs"
+            },
+            {
+              "id": "2",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftemplates.5244c59f.svg&w=32&q=75",
+              "title": "Templates",
+              "paragraph": "Ready-to-ship repositories",
+              "url": "/templates"
+            },
+            {
+              "id": "3",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fguides.4da5825e.svg&w=32&q=75",
+              "title": "Guides",
+              "paragraph": "Learn how to build with thirdweb",
+              "url": "/guides"
+            },
+            {
+              "id": "4",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopensource.4949f6cc.svg&w=32&q=75",
+              "title": "Open Source",
+              "paragraph": "Learn how to contribute to thirdweb",
+              "url": "/open-source"
+            }
+          ]
         },
         {
           "id": "3",
-          "title": "Engine",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/engine"
+          "title": "SDKs",
+          "paragraph": "Smart and intuitive SDKs to get you up to speed",
+          "url": "/sdks",
+          "data": [
+            {
+              "id": "1",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdocs.2ab9e4f8.svg&w=32&q=75",
+              "title": "Docs",
+              "paragraph": "Complete thirdweb documentation",
+              "url": "/docs"
+            },
+            {
+              "id": "2",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftemplates.5244c59f.svg&w=32&q=75",
+              "title": "Templates",
+              "paragraph": "Ready-to-ship repositories",
+              "url": "/templates"
+            },
+            {
+              "id": "3",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fguides.4da5825e.svg&w=32&q=75",
+              "title": "Guides",
+              "paragraph": "Learn how to build with thirdweb",
+              "url": "/guides"
+            },
+            {
+              "id": "4",
+              "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopensource.4949f6cc.svg&w=32&q=75",
+              "title": "Open Source",
+              "paragraph": "Learn how to contribute to thirdweb",
+              "url": "/open-source"
+            }
+          ]
         }
       ]
     },
@@ -101,24 +188,17 @@
       "subMenu": [
         {
           "id": "1",
-          "title": "Connect",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/connect"
+          "title": "Mission",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmission.354c4686.svg&w=96&q=75",
+          "paragraph": "Why we work in web3",
+          "url": "/mission"
         },
         {
           "id": "2",
-          "title": "Contacts",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/contacts"
-        },
-        {
-          "id": "3",
-          "title": "Engine",
-          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconnect-icon.c5589f63.png&w=256&q=75",
-          "paragraph": "Onboard, authenticate and manage users",
-          "url": "/engine"
+          "title": "Blog",
+          "img": "https://thirdweb.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdatastore.6244eeda.png&w=256&q=75",
+          "paragraph": "Our latest news and updates",
+          "url": "/blog"
         }
       ]
     },
