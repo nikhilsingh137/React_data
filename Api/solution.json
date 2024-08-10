@@ -1,0 +1,31 @@
+{
+  "solution": [
+    {
+      "id": "1",
+      "title": "Solutions for every web3 app",
+      "data": [
+        {
+          "id": "1",
+          "img": "https://thirdweb.com/assets/landingpage/GamingKit.png",
+          "title": "Gaming",
+          "paragraph": "The complete web3 game development toolkit — with wallets to onboard users, contracts for onchain assets, fiat & crypto payments, infrastructure to scale your game. Cross-platform support.",
+          "url": "/solution/gaming"
+        },
+        {
+          "id": "2",
+          "img": "https://thirdweb.com/assets/landingpage/chains-solutions.png",
+          "title": "Chains",
+          "paragraph": "Launch a production-ready L2, L3, or appchain and bring developers to your ecosystem — with account abstraction, payments, & RPCs handled for you.",
+          "url": "/solution/chains"
+        },
+        {
+          "id": "3",
+          "img": "https://thirdweb.com/assets/solutions-pages/minting/hero.png",
+          "title": "Minting",
+          "paragraph": "Mint and distribute NFTs at scale — with frontend UI components, smart contracts for every use case, and robust APIs with backend wallets & nonce management.",
+          "url": "/solution/minting"
+        }
+      ]
+    }
+  ]
+}
