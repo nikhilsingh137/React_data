@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "66e34a453608770523bdfc2b",
+    "id": "1",
+    "title": "Why GPE?",
+    "button": "Discover what we have to offer",
+    "url": "/why-gpe",
+    "data": [
+      {
+        "id": "1",
+        "title": "Greater Choice",
+        "paragraph": "We unlock the potential for thriving, sustainable communities to experience great choice in London's most exceptional places.",
+        "img": "https://www.gpe.co.uk/media/cg1jmvmn/wellsmore-courtyard.jpg?width=200&height=200&v=1d8b61b41ba4bd0"
+      },
+      {
+        "id": "2",
+        "title": "Greater Choice",
+        "paragraph": "We unlock the potential for thriving, sustainable communities to experience great choice in London's most exceptional places.",
+        "img": "https://www.gpe.co.uk/media/cg1jmvmn/wellsmore-courtyard.jpg?width=200&height=200&v=1d8b61b41ba4bd0"
+      },
+      {
+        "id": "3",
+        "title": "Greater Choice",
+        "paragraph": "We unlock the potential for thriving, sustainable communities to experience great choice in London's most exceptional places.",
+        "img": "https://www.gpe.co.uk/media/cg1jmvmn/wellsmore-courtyard.jpg?width=200&height=200&v=1d8b61b41ba4bd0"
+      },
+      {
+        "id": "4",
+        "title": "Greater Choice",
+        "paragraph": "We unlock the potential for thriving, sustainable communities to experience great choice in London's most exceptional places.",
+        "img": "https://www.gpe.co.uk/media/cg1jmvmn/wellsmore-courtyard.jpg?width=200&height=200&v=1d8b61b41ba4bd0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "66e33b0b3608770523bdfc24",
+    "id": "1",
+    "img": "https://www.gpe.co.uk/media/fclik1ll/gpe_6sas_groundfloor_amenities_02.jpg?rxy=0.3057644110275689,0.5235310498468393&width=500&height=500&v=1dad8ef0dd00190",
+    "title": "Farringdon",
+    "text": "SIX",
+    "slug": "Fully Managed",
+    "url": "/portfolio/six"
+  },
+  {
+    "_id": "66e33b3d3608770523bdfc26",
+    "id": "2",
+    "img": "https://www.gpe.co.uk/media/fclik1ll/gpe_6sas_groundfloor_amenities_02.jpg?rxy=0.3057644110275689,0.5235310498468393&width=500&height=500&v=1dad8ef0dd00190",
+    "title": "Farringdon",
+    "text": "SIX",
+    "slug": "Fully Managed",
+    "url": "/thirty-one-alfred-place"
+  },
+  {
+    "_id": "66e33b713608770523bdfc28",
+    "id": "3",
+    "img": "https://www.gpe.co.uk/media/fclik1ll/gpe_6sas_groundfloor_amenities_02.jpg?rxy=0.3057644110275689,0.5235310498468393&width=500&height=500&v=1dad8ef0dd00190",
+    "title": "Farringdon",
+    "text": "SIX",
+    "slug": "Fully Managed",
+    "url": "/portfolio/bramah-house"
+  }
+]

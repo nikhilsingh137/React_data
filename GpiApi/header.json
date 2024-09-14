@@ -1,0 +1,125 @@
+[
+  {
+    "_id": "66e1e950969606dd987a0a56",
+    "id": "1",
+    "title": "Why GPE?",
+    "url": "/why-gpe",
+    "SubMenu": "true",
+    "SubTitle": [
+      {
+        "id": "1",
+        "title": "Our brand",
+        "url": "/why-gpe/our-brand"
+      },
+      {
+        "id": "2",
+        "title": "Our customers",
+        "url": "/why-gpe/Our customers"
+      },
+      {
+        "id": "3",
+        "title": "Awards & recognition",
+        "url": "/why-gpe/awards-recognition"
+      },
+      {
+        "id": "4",
+        "title": "Our service approach",
+        "url": "/why-gpe/our-service-approach"
+      }
+    ]
+  },
+  {
+    "_id": "66e1e9c8969606dd987a0a5a",
+    "id": "2",
+    "title": "Our Spaces",
+    "url": "/our-Spaces",
+    "SubMenu": "true",
+    "SubTitle": [
+      {
+        "id": "1",
+        "title": "Our brand",
+        "url": "/why-gpe/our-brand"
+      },
+      {
+        "id": "2",
+        "title": "Our customers",
+        "url": "/why-gpe/Our customers"
+      },
+      {
+        "id": "3",
+        "title": "Awards & recognition",
+        "url": "/why-gpe/awards-recognition"
+      },
+      {
+        "id": "4",
+        "title": "Our service approach",
+        "url": "/why-gpe/our-service-approach"
+      }
+    ]
+  },
+  {
+    "_id": "66e1e9df969606dd987a0a5c",
+    "id": "1",
+    "title": "Content hub",
+    "url": "/content-hub",
+    "SubMenu": "true",
+    "SubTitle": [
+      {
+        "id": "1",
+        "title": "Our brand",
+        "url": "/why-gpe/our-brand"
+      },
+      {
+        "id": "2",
+        "title": "Our customers",
+        "url": "/why-gpe/Our customers"
+      },
+      {
+        "id": "3",
+        "title": "Awards & recognition",
+        "url": "/why-gpe/awards-recognition"
+      },
+      {
+        "id": "4",
+        "title": "Our service approach",
+        "url": "/why-gpe/our-service-approach"
+      }
+    ]
+  },
+  {
+    "_id": "66e1ea07969606dd987a0a5e",
+    "id": "1",
+    "title": "Sustainability",
+    "url": "/Sustainability",
+    "SubMenu": "true",
+    "SubTitle": [
+      {
+        "id": "1",
+        "title": "Our brand",
+        "url": "/why-gpe/our-brand"
+      },
+      {
+        "id": "2",
+        "title": "Our customers",
+        "url": "/why-gpe/Our customers"
+      },
+      {
+        "id": "3",
+        "title": "Awards & recognition",
+        "url": "/why-gpe/awards-recognition"
+      },
+      {
+        "id": "4",
+        "title": "Our service approach",
+        "url": "/why-gpe/our-service-approach"
+      }
+    ]
+  },
+  {
+    "_id": "66e1f0ad969606dd987a0a60",
+    "id": "5",
+    "title": "Contact-us",
+    "url": "/contact-us",
+    "SubMenu": "false"
+  }
+]

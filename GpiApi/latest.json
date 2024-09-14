@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "66e3ff7b1441d3b089706ebc",
+    "id": "1",
+    "title": "Latest news",
+    "button": "view more",
+    "url": "/news-media",
+    "data": [
+      {
+        "id": "1",
+        "img": "https://www.gpe.co.uk/media/opudw553/4234_greys-inn-road_int_atrium_cam004-final.jpg?width=265&height=265&v=1dac8a9f86d6cc0",
+        "url": "/news-media/news/2024/gpe-s-director-of-digital-technology-jordan-mclean-reshapes-team-to-deliver-new-strategy",
+        "text": "GPE’s Director of Digital & Technology, Jordan Mclean, reshapes team",
+        "slug": "news",
+        "date": "Monday, 8 July 2024"
+      },
+      {
+        "id": "2",
+        "img": "https://www.gpe.co.uk/media/opudw553/4234_greys-inn-road_int_atrium_cam004-final.jpg?width=265&height=265&v=1dac8a9f86d6cc0",
+        "url": "/news-media/news/2024/gpe-s-director-of-digital-technology-jordan-mclean-reshapes-team-to-deliver-new-strategy",
+        "text": "GPE’s Director of Digital & Technology, Jordan Mclean, reshapes team",
+        "slug": "news",
+        "date": "Monday, 8 July 2024"
+      },
+      {
+        "id": "3",
+        "img": "https://www.gpe.co.uk/media/opudw553/4234_greys-inn-road_int_atrium_cam004-final.jpg?width=265&height=265&v=1dac8a9f86d6cc0",
+        "url": "/news-media/news/2024/gpe-s-director-of-digital-technology-jordan-mclean-reshapes-team-to-deliver-new-strategy",
+        "text": "GPE’s Director of Digital & Technology, Jordan Mclean, reshapes team",
+        "slug": "news",
+        "date": "Monday, 8 July 2024"
+      },
+      {
+        "id": "4",
+        "img": "https://www.gpe.co.uk/media/opudw553/4234_greys-inn-road_int_atrium_cam004-final.jpg?width=265&height=265&v=1dac8a9f86d6cc0",
+        "url": "/news-media/news/2024/gpe-s-director-of-digital-technology-jordan-mclean-reshapes-team-to-deliver-new-strategy",
+        "text": "GPE’s Director of Digital & Technology, Jordan Mclean, reshapes team",
+        "slug": "news",
+        "date": "Monday, 8 July 2024"
+      },
+      {
+        "id": "5",
+        "img": "https://www.gpe.co.uk/media/opudw553/4234_greys-inn-road_int_atrium_cam004-final.jpg?width=265&height=265&v=1dac8a9f86d6cc0",
+        "url": "/news-media/news/2024/gpe-s-director-of-digital-technology-jordan-mclean-reshapes-team-to-deliver-new-strategy",
+        "text": "GPE’s Director of Digital & Technology, Jordan Mclean, reshapes team",
+        "slug": "news",
+        "date": "Monday, 8 July 2024"
+      }
+    ]
+  }
+]

@@ -69,6 +69,57 @@ const ApiData19 = JSON.parse(ApiPricing);
 const ApiSolution = fs.readFileSync(`${__dirname}/Api/solution.json`, "utf-8");
 const ApiData20 = JSON.parse(ApiSolution);
 
+const GpiHeader = fs.readFileSync(`${__dirname}/GpiApi/header.json`, "utf-8");
+const GpiData = JSON.parse(GpiHeader);
+const GpiImage = fs.readFileSync(`${__dirname}/GpiApi/image.json`, "utf-8");
+const GpiData1 = JSON.parse(GpiImage);
+const GpiWalfred = fs.readFileSync(
+  `${__dirname}/GpiApi/wwalfred.json`,
+  "utf-8"
+);
+const GpiData2 = JSON.parse(GpiWalfred);
+const GpiPower = fs.readFileSync(`${__dirname}/GpiApi/power.json`, "utf-8");
+const GpiData3 = JSON.parse(GpiPower);
+const GpiFeature = fs.readFileSync(`${__dirname}/GpiApi/feature.json`, "utf-8");
+const GpiData4 = JSON.parse(GpiFeature);
+const GpiOffer = fs.readFileSync(`${__dirname}/GpiApi/offer.json`, "utf-8");
+const GpiData5 = JSON.parse(GpiOffer);
+const GpiBrief = fs.readFileSync(`${__dirname}/GpiApi/brief.json`, "utf-8");
+const GpiData6 = JSON.parse(GpiBrief);
+const GpiLatest = fs.readFileSync(`${__dirname}/GpiApi/latest.json`, "utf-8");
+const GpiData7 = JSON.parse(GpiLatest);
+const GpiDataList = fs.readFileSync(`${__dirname}/GpiApi/data.json`, "utf-8");
+const GpiData8 = JSON.parse(GpiDataList);
+
+app.get("/gpiHeader", (req, res) => {
+  res.send(GpiData);
+});
+app.get("/gpiImage", (req, res) => {
+  res.send(GpiData1);
+});
+app.get("/gpiWalfred", (req, res) => {
+  res.send(GpiData2);
+});
+app.get("/gpiPower", (req, res) => {
+  res.send(GpiData3);
+});
+app.get("/gpiFeature", (req, res) => {
+  res.send(GpiData4);
+});
+app.get("/gpiOffer", (req, res) => {
+  res.send(GpiData5);
+});
+app.get("/gpiBrief", (req, res) => {
+  res.send(GpiData6);
+});
+app.get("/gpiLatest", (req, res) => {
+  res.send(GpiData7);
+});
+
+app.get("/gpiData", (req, res) => {
+  res.send(GpiData8);
+});
+
 app.get("/", (req, res) => {
   res.send(ApiData);
 });

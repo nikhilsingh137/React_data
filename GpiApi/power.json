@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "66e2bacd3608770523bdfc21",
+    "id": "1",
+    "paragraph": "We unlock potential, creating sustainable space for London to thrive.We believe in the power of innovation and partnership to deliver a greater choice of adaptable, climate resilient places fit for London's future, creating space for every London story.",
+    "data": [
+      {
+        "id": "1",
+        "img": "https://www.gpe.co.uk/media/5hlhm1km/vb1938916_reception_teapoint.jpg?width=500&height=500&v=1d8bd163a9f2cb0",
+        "title": "Ready to Fit",
+        "text": "Step into a brand-new office space that’s ready for you to design, build and manage, just how you want it.",
+        "url": "portfolio/ready-to-fit"
+      },
+      {
+        "id": "2",
+        "img": "https://www.gpe.co.uk/media/5hlhm1km/vb1938916_reception_teapoint.jpg?width=500&height=500&v=1d8bd163a9f2cb0",
+        "title": "Ready to Fit",
+        "text": "Step into a brand-new office space that’s ready for you to design, build and manage, just how you want it.",
+        "url": "portfolio/ready-to-fit"
+      },
+      {
+        "id": "3",
+        "img": "https://www.gpe.co.uk/media/5hlhm1km/vb1938916_reception_teapoint.jpg?width=500&height=500&v=1d8bd163a9f2cb0",
+        "title": "Ready to Fit",
+        "text": "Step into a brand-new office space that’s ready for you to design, build and manage, just how you want it.",
+        "url": "portfolio/ready-to-fit"
+      }
+    ]
+  }
+]
