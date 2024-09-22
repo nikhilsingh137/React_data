@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "66edfa429f7e6b6bde8e8a67",
+    "id": "1",
+    "title": "Flower Shop",
+    "paragraph": "Welcome to the world of Florist, where flowers come to life with love and creativity. Discover our story, our passion for flowers, and our commitment to making every moment memorable."
+  },
+  {
+    "_id": "66edfaba9f7e6b6bde8e8a69",
+    "id": "2",
+    "title": "Links",
+    "nav": [
+      {
+        "id": "1",
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "id": "2",
+        "title": "About",
+        "url": "/about"
+      },
+      {
+        "id": "3",
+        "title": "Shop",
+        "url": "/shop"
+      },
+      {
+        "id": "4",
+        "title": "Contact",
+        "url": "/contact"
+      }
+    ]
+  },
+  {
+    "_id": "66edfb109f7e6b6bde8e8a6b",
+    "id": "3",
+    "title": "Contact Us",
+    "address": "Address: 13 Fifth Avenue, New York 101660",
+    "email": "Email: contact@info.com",
+    "number": "Phone: +91 987 654 321"
+  }
+]

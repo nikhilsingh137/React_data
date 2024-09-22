@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "66ea95b5913b0a2cf337e1f3",
+    "id": "1",
+    "number": "01",
+    "title": "Order Online",
+    "paragraph": "Share some details here. This is Flexible section where you can share anything you want."
+  },
+  {
+    "_id": "66ea95e5913b0a2cf337e1f5",
+    "id": "2",
+    "number": "02",
+    "title": "Free Shipping",
+    "paragraph": "Share some details here. This is Flexible section where you can share anything you want."
+  },
+  {
+    "_id": "66ea960d913b0a2cf337e1f7",
+    "id": "3",
+    "number": "03",
+    "title": "More Freshness",
+    "paragraph": "Share some details here. This is Flexible section where you can share anything you want."
+  },
+  {
+    "_id": "66ea9636913b0a2cf337e1f9",
+    "id": "4",
+    "number": "04",
+    "title": "Safe Payment",
+    "paragraph": "Share some details here. This is Flexible section where you can share anything you want"
+  }
+]

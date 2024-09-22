@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "66eaba20913b0a2cf337e1ff",
+    "id": "1",
+    "heading": "NEW ARRIVAL",
+    "title": "Discover the Latest Additions at Your Top Choice Flower Shop",
+    "paragraph": "Share some details here. This is Flexible section where you can share anything you want.",
+    "data": [
+      {
+        "id": "1",
+        "type": "Flower",
+        "design": "Custom Floral Designs",
+        "url": "/product/custom-floral-designs",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/product-4.jpg",
+        "number": "$127.00",
+        "price": "$86.00",
+        "sale": "sale"
+      },
+      {
+        "id": "2",
+        "type": "Bouquet",
+        "design": "Periwinkle Flower",
+        "url": "/product/periwinkle-flower",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/product-2-300x300.jpg",
+        "number": "$239.00",
+        "price": "$199.00",
+        "sale": "sale"
+      },
+      {
+        "id": "3",
+        "type": "Bouquet",
+        "design": "Periwinkle Flowers Bouquet",
+        "url": "/product/periwinkle-flower-bouquet",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/product-1-300x300.jpg",
+        "number": "$79.00",
+        "price": "$56.00",
+        "sale": "sale"
+      },
+      {
+        "id": "4",
+        "type": "Bouquet",
+        "design": "Rose Flower Bouquet",
+        "url": "/product/rose-flower-bouquet",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/product-7-300x300.jpg",
+        "number": "$210.00",
+        "price": "$199.00",
+        "sale": "sale"
+      },
+      {
+        "id": "5",
+        "type": "Bouquet",
+        "design": "Tulip Custom Flower",
+        "url": "/product/tulip-custom-flower",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/product-10-300x300.jpg",
+        "number": "$159.00",
+        "price": "$129.00",
+        "sale": "sale"
+      },
+      {
+        "id": "6",
+        "type": "Bouquet",
+        "design": "Tulip Flower",
+        "url": "/product/tulip-flower",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/product-5-300x300.jpg",
+        "number": "$239.00",
+        "price": "$199.00",
+        "sale": "sale"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "66f07cd8ac2a7d27f04ed041",
+    "id": "1",
+    "title": "TESTIMONAIL",
+    "slug": "Hear From Our Happy Customers",
+    "text": "Share some details here. This is Flexible section where you can share anything you want.",
+    "data": [
+      {
+        "id": "1",
+        "text": "I've been a loyal customer of Florist for years, and they never cease to amaze me. The flowers are always fresh, the arrangements are stunning, and the service is top-notch.",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/testimonial-skip-01.jpg",
+        "name": "Steve Smith",
+        "post": "Wedding Planner"
+      },
+      {
+        "id": "2",
+        "text": "I've been a loyal customer of Florist for years, and they never cease to amaze me. The flowers are always fresh, the arrangements are stunning, and the service is top-notch.",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/testimonial-skip-01-1.jpg",
+        "name": "Wade Warren",
+        "post": "Designer"
+      },
+      {
+        "id": "3",
+        "text": "I recently used Florist for my daughter's wedding, and I couldn't have been happier with the results. The wedding florals were breathtaking, and the team went above and beyond to bring.",
+        "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/testimonial-skip-02-1.jpg",
+        "name": "Mila Kunis",
+        "post": "Business Owner"
+      }
+    ]
+  }
+]

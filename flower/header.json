@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "66e99798da3b9e2a68a408ec",
+    "id": "1",
+    "title": "Home",
+    "url": "/"
+  },
+  {
+    "_id": "66e997a9da3b9e2a68a408ee",
+    "id": "2",
+    "title": "About",
+    "url": "/about"
+  },
+  {
+    "_id": "66e997bdda3b9e2a68a408f0",
+    "id": "3",
+    "title": "Shop",
+    "url": "/shop"
+  },
+  {
+    "_id": "66e997d3da3b9e2a68a408f2",
+    "id": "4",
+    "title": "Contact",
+    "url": "/contact"
+  }
+]

@@ -91,6 +91,62 @@ const GpiData7 = JSON.parse(GpiLatest);
 const GpiDataList = fs.readFileSync(`${__dirname}/GpiApi/data.json`, "utf-8");
 const GpiData8 = JSON.parse(GpiDataList);
 
+//flower //
+
+const flowerList = fs.readFileSync(`${__dirname}/flower/header.json`, "utf-8");
+const flowerData = JSON.parse(flowerList);
+const flowerList1 = fs.readFileSync(`${__dirname}/flower/image.json`, "utf-8");
+const flowerData1 = JSON.parse(flowerList1);
+const flowerList2 = fs.readFileSync(`${__dirname}/flower/online.json`, "utf-8");
+const flowerData2 = JSON.parse(flowerList2);
+const flowerList3 = fs.readFileSync(
+  `${__dirname}/flower/imagecontent.json`,
+  "utf-8"
+);
+const flowerData3 = JSON.parse(flowerList3);
+const flowerList4 = fs.readFileSync(`${__dirname}/flower/shop.json`, "utf-8");
+const flowerData4 = JSON.parse(flowerList4);
+const flowerList5 = fs.readFileSync(
+  `${__dirname}/flower/special.json`,
+  "utf-8"
+);
+const flowerData5 = JSON.parse(flowerList5);
+const flowerList6 = fs.readFileSync(
+  `${__dirname}/flower/customer.json`,
+  "utf-8"
+);
+const flowerData6 = JSON.parse(flowerList6);
+const flowerList7 = fs.readFileSync(`${__dirname}/flower/footer.json`, "utf-8");
+const flowerData7 = JSON.parse(flowerList7);
+
+app.get("/flowerHeader", (req, res) => {
+  res.send(flowerData);
+});
+
+app.get("/flowerImage", (req, res) => {
+  res.send(flowerData1);
+});
+app.get("/flowerOnline", (req, res) => {
+  res.send(flowerData2);
+});
+app.get("/flowerImageContent", (req, res) => {
+  res.send(flowerData3);
+});
+app.get("/flowerShop", (req, res) => {
+  res.send(flowerData4);
+});
+app.get("/flowerSpecial", (req, res) => {
+  res.send(flowerData5);
+});
+app.get("/flowerCustomer", (req, res) => {
+  res.send(flowerData6);
+});
+app.get("/flowerFooter", (req, res) => {
+  res.send(flowerData7);
+});
+
+//flower //
+
 app.get("/gpiHeader", (req, res) => {
   res.send(GpiData);
 });
