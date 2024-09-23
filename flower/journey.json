@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "66f060b2ac2a7d27f04ed03a",
+    "id": "1",
+    "title": "Our Story",
+    "slug": "A Journey from Passion to Florist",
+    "paragraph": "Our journey began with a seed of passion that blossomed into a flourishing business. Allow us to share the story of our founder's deep-rooted love for flowers and how it led to the creation of your trusted floral destination. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "text": "Explore the tale of dedication, creativity, and a vision to spread the joy of nature’s beauty through the art of floral design. Discover the moments that shaped our founder’s path and paved the way for Florist to become a symbol of floral excellence.",
+    "img": "https://websitedemos.net/flower-shop-04/wp-content/uploads/sites/1414/2023/10/our-story.jpg",
+    "data": [
+      {
+        "id": "1",
+        "title": "500k+",
+        "slug": "Happy Customers"
+      },
+      {
+        "id": "2",
+        "title": "400k+",
+        "slug": "Products"
+      },
+      {
+        "id": "3",
+        "title": "43k+",
+        "slug": "Worldwide Shop"
+      },
+      {
+        "id": "4",
+        "title": "8k+",
+        "slug": "Winning Awards"
+      }
+    ]
+  }
+]

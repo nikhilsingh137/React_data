@@ -119,6 +119,12 @@ const flowerData6 = JSON.parse(flowerList6);
 const flowerList7 = fs.readFileSync(`${__dirname}/flower/footer.json`, "utf-8");
 const flowerData7 = JSON.parse(flowerList7);
 
+const flowerList8 = fs.readFileSync(
+  `${__dirname}/flower/journey.json`,
+  "utf-8"
+);
+const flowerData8 = JSON.parse(flowerList7);
+
 app.get("/flowerHeader", (req, res) => {
   res.send(flowerData);
 });
@@ -143,6 +149,9 @@ app.get("/flowerCustomer", (req, res) => {
 });
 app.get("/flowerFooter", (req, res) => {
   res.send(flowerData7);
+});
+app.get("/flowerJourney", (req, res) => {
+  res.send(flowerData8);
 });
 
 //flower //
