@@ -1,18 +1,27 @@
 {
   "user": [
     {
-      "id": "3970",
+      "id": "3969",
       "nameEn": "Local",
-      "displayName": "राज्य-शहर",
-      "img": "https://images.bhaskarassets.com/web2images/521/2022/05/24/mera-shehar-new-1_1653383167.png",
+      "displayName": "टॉप न्यूज़",
+      "img": "https://www.bhaskar.com/assets/images/top-news.a4108012.svg",
       "color": "#ff554b",
       "listingUrl": "/",
       "group": -1
     },
     {
+      "id": "3970",
+      "nameEn": "Local",
+      "displayName": "राज्य-शहर",
+      "img": "https://images.bhaskarassets.com/web2images/521/2022/05/24/mera-shehar-new-1_1653383167.png",
+      "color": "#ff554b",
+      "listingUrl": "/local/",
+      "group": -1
+    },
+    {
       "id": "15337",
       "nameEn": "Loksabha Election",
-      "displayName": "लोकसभा चुनाव",
+      "displayName": "विधानसभा चुनाव",
       "img": "https://images.bhaskarassets.com/web2images/521/2022/01/07/gujarat-election21631797807-1_1641539041.png",
       "color": "#c75137",
       "meta": {
@@ -21,14 +30,14 @@
         "actionType": "webView",
         "viewType": "partView",
         "actionTypeV2": "webView",
-        "listingUrl": "/election-2024/"
+        "listingUrl": "/assembly-election/"
       },
-      "listingUrl": "/election-2024/"
+      "listingUrl": "/assembly-election/"
     },
     {
       "id": "5176",
       "nameEn": "IPL 2024",
-      "displayName": "IPL 2024",
+      "displayName": "क्रिकेट",
       "img": "https://images.bhaskarassets.com/web2images/521/2021/11/16/ipl15989555741599046844115991331121634106872_1637060692.png",
       "color": "#0f86f5",
       "meta": {
