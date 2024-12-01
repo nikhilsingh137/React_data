@@ -125,6 +125,13 @@ const flowerList8 = fs.readFileSync(
 );
 const flowerData8 = JSON.parse(flowerList7);
 
+//locatose //
+const LactoseHeader = fs.readFileSync(
+  `${__dirname}/Lactose/Header.json`,
+  "utf-8"
+);
+const lactoseData = JSON.parse(LactoseHeader);
+
 app.get("/flowerHeader", (req, res) => {
   res.send(flowerData);
 });
@@ -261,6 +268,9 @@ app.get("/pricing", (req, res) => {
 
 app.get("/solution", (req, res) => {
   res.send(ApiData20);
+});
+app.get("/lactoseHeader", (req, res) => {
+  res.send(lactoseData);
 });
 
 app.listen(port, () => {
