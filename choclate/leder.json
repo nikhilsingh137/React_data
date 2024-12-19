@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "6757fa3d4ce3440403ee5dec",
+    "id": "1",
+    "title": "Leder du efter vegansk eller glutenfri chokolade?",
+    "item": [
+      {
+        "id": "1",
+        "title": "Vegansk chokolade",
+        "slug": "Se udvalget",
+        "img": "https://simplychocolate.dk/cdn/shop/files/Juleakrylbox_2.png?v=1698653497&width=800",
+        "url": "/collections/vegansk-chokolade"
+      },
+      {
+        "id": "2",
+        "title": "Glutenfri chokolade",
+        "slug": "Se udvalget",
+        "img": "https://simplychocolate.dk/cdn/shop/files/1500x1500_web_12.png?v=1698590537&width=800",
+        "url": "/collections/glutenfri-chokolade"
+      }
+    ]
+  }
+]

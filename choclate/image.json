@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "6752144200951482e824f373",
+    "id": "1",
+    "title": "Juleæsker",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PremiumBox50_MerryChocolate_sq_1000.png?v=1725525479&width=800",
+    "url": "/collections/julechokolade"
+  },
+  {
+    "_id": "6752149400951482e824f375",
+    "id": "2",
+    "title": "Nyheader",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PeaceChocolateHarmony_sq_duocombo_wBites_1000.png?v=1730198677&width=800",
+    "url": "/collections/nyheader"
+  },
+  {
+    "_id": "675214bd00951482e824f377",
+    "id": "3",
+    "title": "Chokoladebarer",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PeaceChocolateHarmony_sq_duocombo_wBites_1000.png?v=1730198677&width=800",
+    "url": "/collections/chokoladebarer"
+  },
+  {
+    "_id": "675214de00951482e824f379",
+    "id": "4",
+    "title": "Proteinbarer",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PeaceChocolateHarmony_sq_duocombo_wBites_1000.png?v=1730198677&width=800",
+    "url": "/collections/proteinbarer"
+  },
+  {
+    "_id": "6752150000951482e824f37b",
+    "id": "5",
+    "title": "Bites",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PeaceChocolateHarmony_sq_duocombo_wBites_1000.png?v=1730198677&width=800",
+    "url": "/collections/bites"
+  },
+  {
+    "_id": "6752152300951482e824f37d",
+    "id": "6",
+    "title": "Gaveæsker",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PeaceChocolateHarmony_sq_duocombo_wBites_1000.png?v=1730198677&width=800",
+    "url": "/collections/cubes-gaveæsker"
+  },
+  {
+    "_id": "6752154800951482e824f37f",
+    "id": "7",
+    "title": "Cubes",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PeaceChocolateHarmony_sq_duocombo_wBites_1000.png?v=1730198677&width=800",
+    "url": "/collections/cubes"
+  }
+]

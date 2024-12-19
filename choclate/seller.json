@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "67536784de0138e8e597e86e",
+    "id": "1",
+    "title": "Juleæsker",
+    "img": "https://simplychocolate.dk/cdn/shop/files/Karrusel_billede_3.png?v=1733128899&width=600",
+    "url": "/collections/julechokolade"
+  },
+  {
+    "_id": "675367a0de0138e8e597e870",
+    "id": "2",
+    "title": "Cubes",
+    "img": "https://simplychocolate.dk/cdn/shop/files/Q3_-_KVADRAT_2024_8.png?v=1723116500&width=600",
+    "url": "/collections/cubes"
+  },
+  {
+    "_id": "675367f0de0138e8e597e872",
+    "id": "3",
+    "title": "Chokoladebites",
+    "img": "https://simplychocolate.dk/cdn/shop/files/Q3_Q4_-_KVADRAT_2024_10.png?v=1729758724&width=600",
+    "url": "/collections/sma-chokolader-i-bites"
+  }
+]

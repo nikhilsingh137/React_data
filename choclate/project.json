@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6757fb354ce3440403ee5def",
+    "id": "1",
+    "img": "https://simplychocolate.dk/cdn/shop/files/AY7A9693.jpg?v=1631780793&width=600",
+    "title": "Drivhuse",
+    "slug": "Projekt drivhus",
+    "header": "Vores venner i Afrika",
+    "text": "I et drivhus ved en kakaoplantage tæt på San Pédro i Elfenbenskysten, dyrker en gruppe lokale kvinder grøntsager og frugt i et drivhus. Det er ikke muligt at opdyrke grøntsager og frugt i det område, grundet jordforhold, manglende vand og varmen. Men med vores drivhus, den rette jord og vandforsyning har vi bidraget til nærende fremtid for vores kakaofarmere og deres familier."
+  },
+  {
+    "_id": "6757fba94ce3440403ee5df1",
+    "id": "2",
+    "img": "https://simplychocolate.dk/cdn/shop/files/Foto_18.jpg?v=1631788380&width=600",
+    "title": "Solceller",
+    "slug": "Solceller",
+    "header": "We love the sun",
+    "text": "Normalt er solen en af chokoladens værste fjender – både sollys og varmen fra strålerne er nemlig med til at ødelægge chokolade. Men hos Simply® Chocolate i København er de to faktisk bedste venner. Vi har fået vores helt eget solcelleanlæg på taget af fabrikken. Det betyder, at vi er 100% selvforsynende med energi, når solen skinner."
+  },
+  {
+    "_id": "6757fbf64ce3440403ee5df3",
+    "id": "3",
+    "img": "https://simplychocolate.dk/cdn/shop/files/Simone_Beauty1609.jpg?v=1631789653&width=600",
+    "title": "Miljø",
+    "slug": "Miljø",
+    "header": "Vores grønne rejse",
+    "text": "Der er – helt forståeligt – stort fokus på emballagen, når vi taler om miljø og genbrug, og hos Simply® Chocolate arbejder vi os hele tiden tættere på vores mål om 100% genanvendelig emballage. Vi er på en mission. Forestil dig en spiselig emballage - altså ingen affald. Vi er ikke helt der endnu, men vi er på vej, og indtil vi har nået vores mål, gør vi alt hvad vi kan for at gøre det bedre og bedre."
+  }
+]

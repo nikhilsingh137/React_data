@@ -123,7 +123,91 @@ const flowerList8 = fs.readFileSync(
   `${__dirname}/flower/journey.json`,
   "utf-8"
 );
-const flowerData8 = JSON.parse(flowerList7);
+const flowerData8 = JSON.parse(flowerList8);
+
+const choclateList = fs.readFileSync(
+  `${__dirname}/choclate/header.json`,
+  "utf-8"
+);
+const choclateData = JSON.parse(choclateList);
+
+const choclateList1 = fs.readFileSync(
+  `${__dirname}/choclate/shop.json`,
+  "utf-8"
+);
+const choclateData1 = JSON.parse(choclateList1);
+
+const choclateList2 = fs.readFileSync(
+  `${__dirname}/choclate/image.json`,
+  "utf-8"
+);
+const choclateData2 = JSON.parse(choclateList2);
+
+const choclateList3 = fs.readFileSync(
+  `${__dirname}/choclate/seller.json`,
+  "utf-8"
+);
+const choclateData3 = JSON.parse(choclateList3);
+
+const choclateList4 = fs.readFileSync(
+  `${__dirname}/choclate/sally.json`,
+  "utf-8"
+);
+const choclateData4 = JSON.parse(choclateList4);
+
+const choclateList5 = fs.readFileSync(
+  `${__dirname}/choclate/spred.json`,
+  "utf-8"
+);
+const choclateData5 = JSON.parse(choclateList5);
+
+const choclateList6 = fs.readFileSync(
+  `${__dirname}/choclate/leder.json`,
+  "utf-8"
+);
+const choclateData6 = JSON.parse(choclateList6);
+
+const choclateList7 = fs.readFileSync(
+  `${__dirname}/choclate/project.json`,
+  "utf-8"
+);
+const choclateData7 = JSON.parse(choclateList7);
+
+const choclateList8 = fs.readFileSync(
+  `${__dirname}/choclate/footer.json`,
+  "utf-8"
+);
+const choclateData8 = JSON.parse(choclateList8);
+
+const choclateList9 = fs.readFileSync(
+  `${__dirname}/choclate/product.json`,
+  "utf-8"
+);
+const choclateData9 = JSON.parse(choclateList9);
+
+const choclateList10 = fs.readFileSync(
+  `${__dirname}/choclate/natural.json`,
+  "utf-8"
+);
+const choclateData10 = JSON.parse(choclateList10);
+
+const choclateList11 = fs.readFileSync(
+  `${__dirname}/choclate/choclate.json`,
+  "utf-8"
+);
+const choclateData11 = JSON.parse(choclateList11);
+
+const choclateList12 = fs.readFileSync(
+  `${__dirname}/choclate/care.json`,
+  "utf-8"
+);
+const choclateData12 = JSON.parse(choclateList12);
+
+const choclateList13 = fs.readFileSync(
+  `${__dirname}/choclate/productseller.json`,
+  "utf-8"
+);
+const choclateData13 = JSON.parse(choclateList13);
 
 //locatose //
 const LactoseHeader = fs.readFileSync(
@@ -131,6 +215,52 @@ const LactoseHeader = fs.readFileSync(
   "utf-8"
 );
 const lactoseData = JSON.parse(LactoseHeader);
+
+// choclate //
+
+app.get("/choclateHeader", (req, res) => {
+  res.send(choclateData);
+});
+
+app.get("/choclateShop", (req, res) => {
+  res.send(choclateData1);
+});
+app.get("/choclateImage", (req, res) => {
+  res.send(choclateData2);
+});
+app.get("/choclateSeller", (req, res) => {
+  res.send(choclateData3);
+});
+app.get("/choclateSally", (req, res) => {
+  res.send(choclateData4);
+});
+app.get("/choclateSpred", (req, res) => {
+  res.send(choclateData5);
+});
+app.get("/choclateLeder", (req, res) => {
+  res.send(choclateData6);
+});
+app.get("/choclateProject", (req, res) => {
+  res.send(choclateData7);
+});
+app.get("/choclateFooter", (req, res) => {
+  res.send(choclateData8);
+});
+app.get("/choclateProduct", (req, res) => {
+  res.send(choclateData9);
+});
+app.get("/choclateNatural", (req, res) => {
+  res.send(choclateData10);
+});
+app.get("/choclateChoclate", (req, res) => {
+  res.send(choclateData11);
+});
+app.get("/choclateCare", (req, res) => {
+  res.send(choclateData12);
+});
+app.get("/choclateProductseller", (req, res) => {
+  res.send(choclateData13);
+});
 
 app.get("/flowerHeader", (req, res) => {
   res.send(flowerData);

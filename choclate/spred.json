@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "6757f9234ce3440403ee5de9",
+    "id": "1",
+    "title": "Spred glæde omkring dig",
+    "item": [
+      {
+        "id": "1",
+        "img": "https://simplychocolate.dk/cdn/shop/files/Valentines_kvadrat_1_-_uden_noget.png?v=1709200926&width=500",
+        "button": "Til værtinden",
+        "url": "/collections/vaertindegaven"
+      },
+      {
+        "id": "2",
+        "img": "https://simplychocolate.dk/cdn/shop/files/FB_kvadrat_mix_2024_47.png?v=1716454072&width=500",
+        "button": "Til festen",
+        "url": "/collections/sma-chokolader-i-bites"
+      },
+      {
+        "id": "3",
+        "img": "https://simplychocolate.dk/cdn/shop/files/FB_kvadrat_mix_2024_45.png?v=1716453968&width=500",
+        "button": "Til Fødselsdagen",
+        "url": "/collections/fodselsdagen"
+      }
+    ]
+  }
+]

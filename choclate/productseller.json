@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "675b4eaf2477363349efc075",
+    "id": "1",
+    "slug": "Santa Was Here",
+    "url": "/products/julepose",
+    "title": "Julepose",
+    "rate": "39,00 kr",
+    "img": "https://simplychocolate.dk/cdn/shop/files/Gift_Bag_SantaWasHere_sq_1000.png?v=1700731717&width=500"
+  },
+  {
+    "_id": "675b4f002477363349efc077",
+    "id": "2",
+    "slug": "Eksklusiv gaveæske med 50 stk. mix chokoladebites",
+    "url": "/products/the-premium-box",
+    "title": "The Premium Box",
+    "rate": "449,00 kr",
+    "img": "https://simplychocolate.dk/cdn/shop/files/Premium50_1_m.skygge_1000x1000_6e1ef282-1005-4a1f-a956-6c8f58373be9.png?v=1702036673&width=500"
+  },
+  {
+    "_id": "675b4f552477363349efc079",
+    "id": "3",
+    "slug": "Gaveæske med 18 stk. Bites",
+    "url": "/products/choclate-and-harmony",
+    "title": "Peace, Chocolate and Harmony",
+    "rate": "169,00 kr",
+    "img": "https://simplychocolate.dk/cdn/shop/files/PeaceChocolateHarmony_sq_duocombo_wBites_1000.png?v=1730198677&width=500"
+  }
+]
